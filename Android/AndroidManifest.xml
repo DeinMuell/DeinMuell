@@ -5,12 +5,12 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="16" />
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/icon_muell"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
@@ -24,7 +24,15 @@
         </activity>
         <activity
             android:name=".MeldenActivity"
-            android:label="@string/title_activity_melden" >
+            android:label="@string/MeldeButton" >
+        </activity>
+        <activity
+            android:name=".SuchenActivity"
+            android:label="@string/title_activity_suchen" >
+        </activity>
+        <activity
+            android:name=".StatistikenActivity"
+            android:label="@string/title_activity_statistiken" >
         </activity>
     </application>
 
