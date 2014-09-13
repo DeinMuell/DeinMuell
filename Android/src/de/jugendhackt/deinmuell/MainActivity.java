@@ -42,7 +42,6 @@ public class MainActivity extends Activity {
 				
 			}
 		});
-    }
         Button angry_btn3 =  (Button) findViewById(R.id.angry_btn3);
         angry_btn3.setOnClickListener(new View.OnClickListener() {
 			
