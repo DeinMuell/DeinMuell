@@ -31,6 +31,18 @@ public class MainActivity extends Activity {
 				
 			}
 		});
+        
+        Button btn_trashie = (Button) findViewById(R.id.angry_btn4);
+        btn_trashie.setOnClickListener(new View.OnClickListener() {
+			
+			@Override
+			public void onClick(View arg0) {
+				startActivity(new Intent(MainActivity.this,TrashieActivity.class));
+				
+				
+			}
+		});
+    }
         Button angry_btn3 =  (Button) findViewById(R.id.angry_btn3);
         angry_btn3.setOnClickListener(new View.OnClickListener() {
 			

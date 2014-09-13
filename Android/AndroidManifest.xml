@@ -34,6 +34,10 @@
             android:name=".StatistikenActivity"
             android:label="@string/title_activity_statistiken" >
         </activity>
+        <activity
+            android:name=".TrashieActivity"
+            android:label="@string/title_activity_trashie" >
+        </activity>
     </application>
 
 </manifest>
