@@ -4,5 +4,9 @@
     <string name="app_name">DeinMuell</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="MeldeButton">Melden</string>
+    <string name="SucheButton">Suche</string>
+    <string name="TrashieButton">Trashie</string>
+    <string name="Statistikbutton">Statistik</string>
 
 </resources>
