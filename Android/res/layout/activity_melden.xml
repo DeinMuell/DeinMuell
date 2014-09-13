@@ -3,5 +3,42 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginTop="20dp"
-    android:background="@drawable/background" >
+    android:layout_marginTop="0dp"
+    android:background="@drawable/background_melden" >
+
+        <EditText
+            android:id="@+id/editOrt"
+            android:layout_width="215dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/editStraße"
+            android:layout_alignLeft="@+id/editStraße"
+            android:layout_marginBottom="45dp"
+            android:ems="10"
+            android:hint="Ort"
+            android:textColor="@android:color/white" >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/editStraße"
+            android:layout_width="215dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="201dp"
+            android:ems="10"
+            android:hint="Straße" 
+            android:textColor="@android:color/white" />
+
+        <Spinner
+            android:id="@+id/typ_spinner"
+            android:layout_width="215dp"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editStraße"
+            android:layout_below="@+id/editOrt"
+            android:layout_marginTop="47dp"
+            android:entries="@array/muelltypen" 
+            style="@style/StyleMuelltyp"/>
+
+    </RelativeLayout>

@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">DeinMuell</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Dein Müll</string>
+    <string name="action_info">Info</string>
     <string name="MeldeButton">Melden</string>
     <string name="SucheButton">Suche</string>
     <string name="TrashieButton">Trashie</string>
     <string name="Statistikbutton">Statistik</string>
+
+    <string-array name="muelltypen">
+        <item>Bitte Typ auswählen</item>
+        <item>Batterieentsorgung</item>
+        <item>Elektroschrott</item>
+        <item>Entsorgungstation</item>
+        <item>Gartenabfälle</item>
+        <item>Glasscontainer</item>
+        <item>Glassflaschen</item>
+        <item>Kleiderspende</item>
+        <item>Mülleimer</item>
+        <item>Papier</item>
+        <item>Plastik</item>
+    </string-array>
+
+    <string name="title_activity_melden">MeldenActivity</string>
 
 </resources>

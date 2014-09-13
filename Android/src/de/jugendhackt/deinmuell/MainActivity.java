@@ -1,18 +1,16 @@
 package de.jugendhackt.deinmuell;
 
 import android.app.Activity;
-import android.app.ActionBar;
-import android.app.Fragment;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
+import android.content.DialogInterface.OnClickListener;
+import android.content.Intent;
 import android.os.Bundle;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.View.OnClickListener;
-import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.Toast;
-import android.os.Build;
+
 
 
 
@@ -24,11 +22,12 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         
         Button btn_angry = (Button) findViewById(R.id.angry_btn);
-        btn_angry.setOnClickListener(new OnClickListener() {
+        btn_angry.setOnClickListener(new View.OnClickListener() {
 			
 			@Override
 			public void onClick(View arg0) {
-				Toast.makeText(MainActivity.this, "Müll melden", Toast.LENGTH_LONG).show();
+				startActivity(new Intent(MainActivity.this, MeldenActivity.class));
+				
 				
 			}
 		});
@@ -48,8 +47,19 @@ public class MainActivity extends Activity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-        if (id == R.id.action_settings) {
-            return true;
+        if (id == R.id.action_info) {
+        	AlertDialog.Builder dialogBuilder = new AlertDialog.Builder(this);
+        	dialogBuilder.setTitle("Information");
+        	dialogBuilder.setMessage("Vielen Dank für das Nutzen der App");
+        	dialogBuilder.setNeutralButton("Okey", new OnClickListener() {
+				
+				@Override
+				public void onClick(DialogInterface dialog, int which) {
+					// TODO Auto-generated method stub
+					
+				}
+			});
+        	
         }
         return super.onOptionsItemSelected(item);
     }
