@@ -26,6 +26,10 @@
             android:name=".MeldenActivity"
             android:label="@string/title_activity_melden" >
         </activity>
+        <activity
+            android:name=".TrashieActivity"
+            android:label="@string/title_activity_trashie" >
+        </activity>
     </application>
 
 </manifest>
