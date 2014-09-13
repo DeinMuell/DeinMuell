@@ -12,7 +12,7 @@
             android:layout_height="wrap_content"
             android:layout_alignBottom="@+id/editStraße"
             android:layout_alignLeft="@+id/editStraße"
-            android:layout_marginBottom="45dp"
+            android:layout_marginBottom="55dp"
             android:ems="10"
             android:hint="Ort"
             android:textColor="@android:color/black" 
@@ -27,22 +27,11 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="201dp"
+            android:layout_marginTop="230dp"
             android:ems="10"
             android:hint="Straße" 
             android:textColor="@android:color/black"
             android:background="#FFAEC9" />
-
-        <Spinner
-            android:id="@+id/typ_spinner"
-            android:layout_width="215dp"
-            android:layout_height="wrap_content"
-            android:layout_alignLeft="@+id/editStraße"
-            android:layout_below="@+id/editOrt"
-            android:layout_marginTop="47dp"
-            android:entries="@array/muelltypen" 
-            style="@style/StyleMuelltyp"
-            android:background="#FFAEC9"/>
 
         <Button
             android:id="@+id/evil_btn1"
@@ -50,11 +39,21 @@
             android:layout_height="60dp"
             android:layout_below="@+id/typ_spinner"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="52dp"
+            android:layout_marginTop="45dp"
             android:background="@drawable/buttonshape5"
             android:text="Speichern"
             android:textColor="#000000"
-            android:textSize="30sp" 
-            />
+            android:textSize="30sp" />
+
+        <Spinner
+            android:id="@+id/typ_spinner"
+            style="@style/StyleMuelltyp"
+            android:layout_width="215dp"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editStraße"
+            android:layout_below="@+id/editOrt"
+            android:layout_marginTop="50dp"
+            android:background="#FFAEC9"
+            android:entries="@array/muelltypen" />
 
     </RelativeLayout>
