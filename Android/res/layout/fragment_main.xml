@@ -2,15 +2,24 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="de.jugendhackt.deinmuell.MainActivity$PlaceholderFragment" >
+    
+    	<Button
+android:id="@+id/angry_btn"
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+android:text="Melden"
+android:textColor="#FFFFFF"
+android:textSize="30sp"
+
+android:layout_width="270dp"
+android:layout_height="60dp"
+android:background="@drawable/buttonshape"
+android:layout_alignParentTop="true"
+/>
 
 </RelativeLayout>

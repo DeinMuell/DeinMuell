@@ -1,39 +1,57 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginTop="20dp"
-    android:background="@drawable/StartBackground"
-    tools:context="de.jugendhackt.deinmuell.MainActivity"
-    tools:ignore="MergeRootFrame" >
+    android:layout_marginTop="0dp"
+    android:background="@drawable/background" >
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="230dp"
-        android:layout_height="76dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="135dp"
-        android:background="#007600"
-        android:padding="0dp"
-        android:text="@string/SucheButton" />
+<Button
+    android:id="@+id/angry_btn2"
+    android:layout_width="200dp"
+    android:layout_height="60dp"
+    android:layout_alignLeft="@+id/angry_btn"
+    android:layout_below="@+id/angry_btn"
+    android:layout_marginTop="27dp"
+    android:background="@drawable/buttonshape2"
+    android:text="Suchen"
+    android:textColor="#FFFFFF"
+    android:textSize="30sp" />
 
-    <Button
-        android:id="@+id/button3"
-        android:layout_width="230dp"
-        android:layout_height="76dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="245dp"
-        android:background="#F2F200"
-        android:text="@string/TrashieButton" />
+<Button
+    android:id="@+id/angry_btn"
+    android:layout_width="200dp"
+    android:layout_height="60dp"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="140dp"
+    android:background="@drawable/buttonshape"
+    android:text="Melden"
+    android:textColor="#FFFFFF"
+    android:textSize="30sp" />
 
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="230dp"
-        android:layout_height="76dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="360dp"
-        android:background="#00BFFF"
-        android:text="@string/Statistikbutton" />
+<Button
+    android:id="@+id/angry_btn4"
+    android:layout_width="200dp"
+    android:layout_height="60dp"
+    android:layout_alignLeft="@+id/angry_btn2"
+    android:layout_below="@+id/angry_btn2"
+    android:layout_marginTop="29dp"
+    android:background="@drawable/buttonshape3"
+    android:text="Trashie"
+    android:textColor="#FFFFFF"
+    android:textSize="30sp" />
 
-</FrameLayout>
+<Button
+    android:id="@+id/angry_btn3"
+    android:layout_width="200dp"
+    android:layout_height="60dp"
+    android:layout_alignLeft="@+id/angry_btn4"
+    android:layout_below="@+id/angry_btn4"
+    android:layout_marginTop="24dp"
+    android:background="@drawable/buttonshape4"
+    android:text="Statistik"
+    android:textColor="#FFFFFF"
+    android:textSize="30sp" />
+
+</RelativeLayout>
