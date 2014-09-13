@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-13T09:23:02Z"/>
+
+  <node id="942862857" lat="52.4124671" lon="13.5660510">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Am Falkenberg 115, Nähe Gartenstadtweg 2"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1370001131" lat="52.5444202" lon="13.2457113">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="13599"/>
+    <tag k="addr:street" v="Gartenfelder Straße"/>
+    <tag k="addr:suburb" v="Haselhorst"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Gartenfelder Str. 58, Nähe Paulsternstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1434318202" lat="52.4276270" lon="13.3109100">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="12207"/>
+    <tag k="addr:street" v="Barnackufer"/>
+    <tag k="addr:suburb" v="Lichterfelde"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Bernd Klebs Recycling"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+    <tag k="recycling:beverage_cartons" v="yes"/>
+    <tag k="recycling:books" v="yes"/>
+    <tag k="recycling:cardboard" v="yes"/>
+    <tag k="recycling:cartons" v="yes"/>
+    <tag k="recycling:chipboard" v="yes"/>
+    <tag k="recycling:christmas_trees" v="yes"/>
+    <tag k="recycling:cork" v="yes"/>
+    <tag k="recycling:garden_waste" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:green_waste" v="yes"/>
+    <tag k="recycling:newspaper" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:paper_packaging" v="yes"/>
+    <tag k="recycling:plasterboard" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:plastic_bags" v="yes"/>
+    <tag k="recycling:plastic_bottles" v="yes"/>
+    <tag k="recycling:polyester" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:waste" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="website" v="http://www.klebs.info/"/>
+  </node>
+  <node id="1608593609" lat="52.4018726" lon="13.1438385">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Kohlhasenbräcker Str. 13, Naehe ggü. Neue Kreisstr. 50"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593626" lat="52.4050156" lon="13.5310598">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="ggü. Ortolfstraße 167, Ecke Venusstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593642" lat="52.4102304" lon="13.2653315">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Andréezeile 2, in der Kurve neben Buswendekehre"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593653" lat="52.4106606" lon="13.3218623">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Osdorfer Str. 90, Ecke Scheelestr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593663" lat="52.4124329" lon="13.1407246">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Schäferstr. 31, Ecke Kohlhasenbrücker Str., vor Kaisers"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593680" lat="52.4139965" lon="13.3183936">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Osdorfer Str. 104, ggü. Fahrenheitstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593692" lat="52.4167622" lon="13.3376081">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Hildburghauser Str. 116, Ecke Mariannenstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593714" lat="52.4177065" lon="13.2860180">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Goerzallee 189, vor OBI"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593726" lat="52.4192033" lon="13.1805967">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Nibelungenstr. 1, Ecke Potsdamer Chaussee"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593746" lat="52.4194978" lon="13.2937482">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Goerzallee 155, Ecke Lichterfelder Weg"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593762" lat="52.4214078" lon="13.2449291">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Neuruppiner Str. 29, Nähe Ludwigsfelder Str."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593776" lat="52.4220061" lon="13.2868300">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Platz des 4. Juli Ecke Osteweg"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593791" lat="52.4244058" lon="13.2394696">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Berlepschstr. 114, Nähe Clauertstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593805" lat="52.4252782" lon="13.3029358">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Ortlerweg 2, Ecke Goerzallee"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593820" lat="52.4256062" lon="13.5867394">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Zur Nachtheide 2, Ecke Wendenschloßstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593826" lat="52.4259992" lon="13.1869122">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Kronprinzessinnenweg 160, Ecke Nymphenufer"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593841" lat="52.4263454" lon="13.2435897">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Idsteiner Str. 2, am Gleis"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593860" lat="52.4288790" lon="13.3064569">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Altdorfer Str. 1, Ecke Goerzallee"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593876" lat="52.4293976" lon="13.5926621">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Grüne Trift 127, Sportplatz Ecke Dregerhoffstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593891" lat="52.4305377" lon="13.3539326">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Malteserstr. 42-52, vor Sportplatz"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593905" lat="52.4370998" lon="13.2529991">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Fischerhüttenstr. 19"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593912" lat="52.4408992" lon="13.3163112">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Hindenburgdamm 29-31, vor Klinikum"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593917" lat="52.4411281" lon="13.2915745">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Curtiusstr. 33 Ecke Köhlerstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593933" lat="52.4414064" lon="13.2824769">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Dahlemer Weg 2, Ecke Berliner Str."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593940" lat="52.4450115" lon="13.2924909">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Unter den Eichen 94b, Ecke Knesebeckstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593949" lat="52.4579187" lon="13.1505968">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Kladower Damm 327"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593955" lat="52.4645650" lon="13.2814082">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Am Hirschsprung 46, Nähe Finkenstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593966" lat="52.4648776" lon="13.2771547">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Clayallee 81, ggü. Finkenstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593988" lat="52.4667914" lon="13.1193284">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Kurpromenade 51a, ggue. Seekorso"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608593997" lat="52.4678919" lon="13.1260089">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Ritterfelddamm 171, Ecke Seekorso"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594014" lat="52.4804430" lon="13.5190757">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Ehrlichstr. 32, Ecke Lehndorffstr. 20"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594029" lat="52.4816075" lon="13.5411058">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Köpenicker Allee 162, ggü. Nr. 163 neben PP-Zufahrt"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594039" lat="52.4882981" lon="13.5157731">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Walkürenstr. 1, Odinstr. Ecke Ilsenstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594042" lat="52.5107711" lon="13.1885828">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Scharfe Lanke 21, ggü. Nr. 20, neben Seglerverein"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594060" lat="52.5167276" lon="13.1781611">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Heerstr. 325, Ecke Tankstelle"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594070" lat="52.5186689" lon="13.1688823">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Heerstr. 387, ggue. Nr. 386 Ecke Sandstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594077" lat="52.5237017" lon="13.1747815">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Seeburger Weg 27"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594090" lat="52.5256028" lon="13.1371387">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Heerstr. 590 Ecke Weidenweg"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594092" lat="52.5270597" lon="13.1293024">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Heerstr. 637, Ecke Doeberitzer Weg"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594095" lat="52.5306411" lon="13.1484219">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Suedekumzeile 30"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594097" lat="52.5548937" lon="13.1958002">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Hohenzollernring 63, Ecke Radelandstr."/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594099" lat="52.5830765" lon="13.4041607">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Wackenbergstr. 79"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594100" lat="52.6051042" lon="13.4765108">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Straße 43, Ecke Blankenburger Chaussee Friedhof"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594102" lat="52.6197244" lon="13.4834504">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Busonistr. 97, ggü. Am Elsebrocken"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1608594103" lat="52.6218993" lon="13.3990284">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Orange Box der BSR"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:cds" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="yes"/>
+    <tag k="recycling:mobile_phones" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Hauptstr. 62, Ecke Möllersfelder Weg 1"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="1718430712" lat="52.4144184" lon="12.5396235">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+  </node>
+  <node id="1718430713" lat="52.4154850" lon="12.5384495">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+  </node>
+  <node id="1718430714" lat="52.4180244" lon="12.5394543">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+  </node>
+
+</osm>

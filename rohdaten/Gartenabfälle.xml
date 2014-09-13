@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-13T09:19:02Z"/>
+
+  <node id="1434318202" lat="52.4276270" lon="13.3109100">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="12207"/>
+    <tag k="addr:street" v="Barnackufer"/>
+    <tag k="addr:suburb" v="Lichterfelde"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Bernd Klebs Recycling"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+    <tag k="recycling:beverage_cartons" v="yes"/>
+    <tag k="recycling:books" v="yes"/>
+    <tag k="recycling:cardboard" v="yes"/>
+    <tag k="recycling:cartons" v="yes"/>
+    <tag k="recycling:chipboard" v="yes"/>
+    <tag k="recycling:christmas_trees" v="yes"/>
+    <tag k="recycling:cork" v="yes"/>
+    <tag k="recycling:garden_waste" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:green_waste" v="yes"/>
+    <tag k="recycling:newspaper" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:paper_packaging" v="yes"/>
+    <tag k="recycling:plasterboard" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:plastic_bags" v="yes"/>
+    <tag k="recycling:plastic_bottles" v="yes"/>
+    <tag k="recycling:polyester" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:waste" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="website" v="http://www.klebs.info/"/>
+  </node>
+
+</osm>

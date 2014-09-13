@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-13T08:52:02Z"/>
+
+  <node id="610932850" lat="52.5597679" lon="13.5512275">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="611237244" lat="52.5606853" lon="13.5520144">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="621802036" lat="52.5595792" lon="13.5518257">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="621802042" lat="52.5593795" lon="13.5524587">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="621802050" lat="52.5589932" lon="13.5536835">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="621802051" lat="52.5591740" lon="13.5531103">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="621815072" lat="52.5598581" lon="13.5518715">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="621815117" lat="52.5593645" lon="13.5533883">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="621815124" lat="52.5598255" lon="13.5537929">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="621815128" lat="52.5603159" lon="13.5522547">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="1757753569" lat="52.4736357" lon="13.3708545">
+    <tag k="amenity" v="waste_disposal"/>
+    <tag k="waste" v="trash"/>
+  </node>
+  <node id="1757753634" lat="52.4740037" lon="13.3706950">
+    <tag k="amenity" v="waste_disposal"/>
+    <tag k="waste" v="trash"/>
+  </node>
+  <node id="1757753675" lat="52.4741770" lon="13.3701966">
+    <tag k="amenity" v="waste_disposal"/>
+    <tag k="waste" v="trash"/>
+  </node>
+  <node id="1953021651" lat="52.5183359" lon="13.3265199">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2003199525" lat="52.5972047" lon="13.2756294">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2162039251" lat="52.4167382" lon="13.7593572">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+    <tag k="waste" v="trash"/>
+  </node>
+  <node id="2162039252" lat="52.4160010" lon="13.7602601">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+    <tag k="waste" v="trash"/>
+  </node>
+  <node id="2408510716" lat="52.4049276" lon="13.0084860">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2408510784" lat="52.4051026" lon="13.0110219">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2598746610" lat="52.0170092" lon="13.5298697">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2598771792" lat="52.0176670" lon="13.5287308">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2598781033" lat="52.0168834" lon="13.5267667">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2598799899" lat="52.0171856" lon="13.5245208">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2598943343" lat="52.0147193" lon="13.5277184">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2598968771" lat="52.0150490" lon="13.5237048">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2812619856" lat="52.3899048" lon="13.0329360">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2821798731" lat="52.9231535" lon="14.0251523">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2865137143" lat="52.4199215" lon="13.4335680">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2865137144" lat="52.4199434" lon="13.4334896">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2865137145" lat="52.4199434" lon="13.4335284">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2865137146" lat="52.4199444" lon="13.4335669">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2867341781" lat="52.4164969" lon="13.4346257">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2867341782" lat="52.4165098" lon="13.4346008">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2867341784" lat="52.4165243" lon="13.4345779">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2867619087" lat="52.4132398" lon="13.4214972">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2867619088" lat="52.4132442" lon="13.4215679">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2867619089" lat="52.4132483" lon="13.4216383">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2869270133" lat="52.4127047" lon="13.4215648">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2993819528" lat="52.4917250" lon="13.4897573">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+  <node id="2993835806" lat="52.5310604" lon="13.2858470">
+    <tag k="amenity" v="waste_disposal"/>
+  </node>
+
+</osm>

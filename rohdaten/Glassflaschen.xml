@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-13T09:18:02Z"/>
+
+  <node id="133188560" lat="52.4411058" lon="13.2915130">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer Rohstoffverwertung"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="266699287" lat="52.5154035" lon="13.5017744">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="272619379" lat="52.5218288" lon="13.4556341">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="273174898" lat="52.4577035" lon="13.2985078">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Rhenus"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="no"/>
+  </node>
+  <node id="277937802" lat="52.4652088" lon="13.4659919">
+    <tag k="amenity" v="recycling"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="278630422" lat="52.2711731" lon="13.3542453">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="278630424" lat="52.2730494" lon="13.3540118">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="278630425" lat="52.2735917" lon="13.3468899">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="280746713" lat="52.5548463" lon="13.5751568">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="280752631" lat="52.5533590" lon="13.5763842">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="289569564" lat="52.4910474" lon="12.4469137">
+    <tag k="amenity" v="recycling"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="297783785" lat="52.5449978" lon="13.0579571">
+    <tag k="amenity" v="recycling"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="298371602" lat="52.5262170" lon="13.4755961">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="300559806" lat="52.5613575" lon="13.0503087">
+    <tag k="amenity" v="recycling"/>
+    <tag k="created_by" v="Potlatch 0.10c"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="305471774" lat="52.5373722" lon="13.4055940">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="310841891" lat="52.5635009" lon="13.0891152">
+    <tag k="amenity" v="recycling"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="312165101" lat="52.5343695" lon="13.4044867">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="no"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="no"/>
+  </node>
+  <node id="331140868" lat="52.9331781" lon="12.8038711">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="332797281" lat="52.5499356" lon="13.4485889">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="344192039" lat="52.5243248" lon="13.4657085">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="344455310" lat="52.5445287" lon="13.4460847">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="was erlier 100m west"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="351387149" lat="52.4380071" lon="13.2958855">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="365888924" lat="52.5185863" lon="13.3401687">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:street" v="Altonaer Straße"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer Rohstoffverwertung"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="388415435" lat="52.5623490" lon="13.4126955">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="393769325" lat="52.5211048" lon="13.3385794">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:street" v="Bochumer Straße"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="413518433" lat="52.5220238" lon="13.4491913">
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="452387097" lat="52.7362812" lon="13.2469649">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="461662898" lat="52.4126275" lon="12.9799377">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="476259005" lat="52.4812108" lon="13.4417367">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="no"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="476674871" lat="52.4213964" lon="13.2996494">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="476675294" lat="52.4252454" lon="13.3029591">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer Rohstoffverwertung"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="477352263" lat="52.4368033" lon="13.2933351">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="477578563" lat="52.5329744" lon="13.4790821">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="479301800" lat="52.4231157" lon="13.2969918">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="492025511" lat="52.5294235" lon="13.4618193">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="492062434" lat="52.5463247" lon="13.5455113">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="492142391" lat="52.5311000" lon="13.4711513">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="492264503" lat="52.5077872" lon="13.5185425">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="493149696" lat="52.5235942" lon="13.4451082">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="496042346" lat="52.5308005" lon="13.5435278">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="503247965" lat="52.4112500" lon="13.7520120">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="506357627" lat="52.5253711" lon="13.4155371">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="506480293" lat="52.5753268" lon="13.2119003">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="515071499" lat="52.4322613" lon="13.3050043">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="515071502" lat="52.4288832" lon="13.3063084">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer Rohstoffverwertung"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="536434834" lat="52.4049170" lon="13.2158015">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="536434844" lat="52.4033634" lon="13.2193725">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="538247124" lat="52.5705747" lon="13.5757570">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="538247126" lat="52.5705697" lon="13.5749736">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="540380396" lat="52.4036362" lon="13.2058719">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="540380403" lat="52.4117864" lon="13.2036906">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="551436475" lat="52.4020474" lon="13.2011646">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="556122901" lat="52.0855146" lon="12.8728846">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="559278039" lat="52.4059722" lon="13.2382460">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="559278045" lat="52.4051879" lon="13.2335464">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="559789965" lat="52.4128234" lon="13.2304229">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="582702508" lat="52.3979951" lon="13.2036816">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="583790772" lat="52.5688571" lon="13.4468104">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="source" v="gps"/>
+  </node>
+  <node id="599597088" lat="52.5406437" lon="13.4342927">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="623071167" lat="52.4219495" lon="13.2868764">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer Rohstoffverwertung"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="source" v="SenStadtU DOP10-C 2011 Erlaubnis 1002-12"/>
+  </node>
+  <node id="634920762" lat="52.4599532" lon="13.2875650">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="643638876" lat="52.4129812" lon="13.2116620">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="652613356" lat="52.1378261" lon="12.5946880">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="no"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="659819598" lat="52.0957929" lon="13.1708674">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="659819604" lat="52.0910206" lon="13.1613509">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="659819609" lat="52.0870110" lon="13.1708767">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="661194945" lat="52.0909843" lon="13.1746307">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="662525654" lat="52.5215763" lon="13.4517336">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="668246076" lat="52.4491962" lon="13.2516842">
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Glas"/>
+    <tag k="recycling:batteries" v="no"/>
+    <tag k="recycling:books" v="no"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="691484640" lat="52.4640278" lon="13.3342669">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="715203808" lat="52.4772290" lon="13.3072849">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer Rohstoffverwertung"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:glass_bottles:colour" v="white;green;brown"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Mecklenburgische Str. 65 - 68"/>
+  </node>
+  <node id="715203816" lat="52.4739668" lon="13.3012351">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="766728455" lat="52.4887457" lon="13.4134964">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer Rohstoffverwertung"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="769390288" lat="52.7620476" lon="13.2698236">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="799244028" lat="52.5129200" lon="13.4640787">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="824505895" lat="52.4878026" lon="13.3908807">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer Rohstoffverwertung"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="829287428" lat="52.4615640" lon="13.3392580">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="829287977" lat="52.4616895" lon="13.3449239">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="921503175" lat="52.4977307" lon="13.3800122">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer Rohstoffverwertung"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="922500807" lat="52.5179311" lon="13.5051056">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1005959577" lat="52.5636731" lon="13.5788190">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1005959581" lat="52.5630731" lon="13.5760295">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1005959589" lat="52.5638036" lon="13.5678327">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1005959644" lat="52.5695880" lon="13.5798275">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1005966022" lat="52.5695477" lon="13.5686822">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1005966025" lat="52.5673774" lon="13.5709226">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1105787016" lat="52.0882520" lon="13.1778040">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1208367027" lat="52.6385669" lon="13.2086012">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1262095016" lat="52.3589465" lon="13.0948261">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1281747185" lat="52.5426617" lon="13.4976271">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1367960774" lat="52.5422408" lon="13.7549419">
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Recycling Point"/>
+    <tag k="recycling:batteries" v="no"/>
+    <tag k="recycling:books" v="no"/>
+    <tag k="recycling:cans" v="no"/>
+    <tag k="recycling:cardboard" v="no"/>
+    <tag k="recycling:cartons" v="no"/>
+    <tag k="recycling:electrical_appliances" v="no"/>
+    <tag k="recycling:glass" v="no"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:magazines" v="no"/>
+    <tag k="recycling:newspaper" v="no"/>
+    <tag k="recycling:paper" v="no"/>
+    <tag k="recycling:paper_packaging" v="no"/>
+    <tag k="recycling:plastic" v="no"/>
+    <tag k="recycling:plastic_bottles" v="no"/>
+    <tag k="recycling:plastic_packaging" v="no"/>
+    <tag k="recycling:scrap_metal" v="no"/>
+    <tag k="recycling:small_appliances" v="no"/>
+    <tag k="recycling:waste" v="no"/>
+    <tag k="recycling:wood" v="no"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1396365798" lat="52.4357384" lon="13.3103521">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1410437944" lat="52.4257895" lon="13.3165178">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1458129280" lat="52.5318354" lon="13.0803226">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1534048937" lat="52.4937338" lon="13.5617221">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1552724857" lat="52.3129059" lon="13.0620935">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1582875187" lat="52.1381510" lon="12.5872582">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="no"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1594379963" lat="52.6257968" lon="13.4962480">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:shoes" v="yes"/>
+  </node>
+  <node id="1621342996" lat="52.9403478" lon="12.8100313">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1730026623" lat="52.6328007" lon="13.3510113">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1730026631" lat="52.6308732" lon="13.3204234">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1739101147" lat="52.2936301" lon="13.4304753">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1739101152" lat="52.2900668" lon="13.4244672">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1778293533" lat="52.4715455" lon="13.3220807">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:batteries" v="no"/>
+    <tag k="recycling:books" v="no"/>
+    <tag k="recycling:cans" v="no"/>
+    <tag k="recycling:cardboard" v="no"/>
+    <tag k="recycling:cartons" v="no"/>
+    <tag k="recycling:clothes" v="no"/>
+    <tag k="recycling:electrical_appliances" v="no"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:green_waste" v="no"/>
+    <tag k="recycling:magazines" v="no"/>
+    <tag k="recycling:newspaper" v="no"/>
+    <tag k="recycling:paper" v="no"/>
+    <tag k="recycling:paper_packaging" v="no"/>
+    <tag k="recycling:plastic" v="no"/>
+    <tag k="recycling:plastic_bottles" v="no"/>
+    <tag k="recycling:plastic_packaging" v="no"/>
+    <tag k="recycling:scrap_metal" v="no"/>
+    <tag k="recycling:waste" v="no"/>
+    <tag k="recycling:wood" v="no"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1793452990" lat="52.3085949" lon="13.2548474">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1822595111" lat="52.7807769" lon="14.0449145">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1837420229" lat="52.5054452" lon="13.4325139">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer AG"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1853467236" lat="52.3573581" lon="13.0906216">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="1901096129" lat="52.3669368" lon="13.1011554">
+    <tag k="addr:street" v="Erich-Weinert-Straße"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="description" v="Glas, Kleider"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="centre"/>
+  </node>
+  <node id="1928532524" lat="53.0183067" lon="13.5868957">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1989459855" lat="52.5499887" lon="13.3425490">
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Glascontainer"/>
+    <tag k="recycling:batteries" v="no"/>
+    <tag k="recycling:books" v="no"/>
+    <tag k="recycling:cans" v="no"/>
+    <tag k="recycling:cardboard" v="no"/>
+    <tag k="recycling:cartons" v="no"/>
+    <tag k="recycling:clothes" v="no"/>
+    <tag k="recycling:electrical_appliances" v="no"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:green_waste" v="no"/>
+    <tag k="recycling:magazines" v="no"/>
+    <tag k="recycling:newspaper" v="no"/>
+    <tag k="recycling:paper" v="no"/>
+    <tag k="recycling:paper_packaging" v="no"/>
+    <tag k="recycling:plastic" v="no"/>
+    <tag k="recycling:plastic_bottles" v="no"/>
+    <tag k="recycling:plastic_packaging" v="no"/>
+    <tag k="recycling:scrap_metal" v="no"/>
+    <tag k="recycling:small_appliances" v="no"/>
+    <tag k="recycling:waste" v="no"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2036560531" lat="52.1379434" lon="13.3647561">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="2057456446" lat="52.4020324" lon="13.2518308">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2082941909" lat="53.0065359" lon="13.5503524">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2156091434" lat="52.4167181" lon="13.7595411">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="2158552558" lat="52.4253050" lon="13.7532815">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="2187802685" lat="52.4211094" lon="13.7515007">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="2194737348" lat="52.3882220" lon="12.9198193">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2205270137" lat="52.6011230" lon="13.3044330">
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Altglas"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="2270900400" lat="52.4930375" lon="13.5379622">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:batteries" v="no"/>
+    <tag k="recycling:books" v="no"/>
+    <tag k="recycling:cans" v="no"/>
+    <tag k="recycling:cardboard" v="no"/>
+    <tag k="recycling:cartons" v="no"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="no"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:green_waste" v="no"/>
+    <tag k="recycling:magazines" v="no"/>
+    <tag k="recycling:newspaper" v="no"/>
+    <tag k="recycling:paper" v="no"/>
+    <tag k="recycling:paper_packaging" v="no"/>
+    <tag k="recycling:plastic" v="no"/>
+    <tag k="recycling:plastic_bottles" v="no"/>
+    <tag k="recycling:plastic_packaging" v="no"/>
+    <tag k="recycling:scrap_metal" v="no"/>
+    <tag k="recycling:small_appliances" v="no"/>
+    <tag k="recycling:waste" v="no"/>
+    <tag k="recycling:wood" v="no"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="source" v="local_knowledge"/>
+  </node>
+  <node id="2383597492" lat="52.8766085" lon="14.0518402">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2423004585" lat="52.5890918" lon="13.3254913">
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Altglas Rathaus Reinickendorf"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2478282892" lat="52.4119695" lon="12.9654789">
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+  </node>
+  <node id="2512623620" lat="52.5850312" lon="13.3118542">
+    <tag k="amenity" v="recycling"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2528943556" lat="52.4937031" lon="13.5617026">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2528943563" lat="52.4937176" lon="13.5617128">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2528958323" lat="52.4936887" lon="13.5616934">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2580020217" lat="52.5345336" lon="13.4914864">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3056236300" lat="52.4946303" lon="13.5381520">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:batteries" v="no"/>
+    <tag k="recycling:books" v="no"/>
+    <tag k="recycling:cans" v="no"/>
+    <tag k="recycling:cardboard" v="no"/>
+    <tag k="recycling:cartons" v="no"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:electrical_appliances" v="no"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:green_waste" v="no"/>
+    <tag k="recycling:magazines" v="no"/>
+    <tag k="recycling:newspaper" v="no"/>
+    <tag k="recycling:paper" v="no"/>
+    <tag k="recycling:paper_packaging" v="no"/>
+    <tag k="recycling:plastic" v="no"/>
+    <tag k="recycling:plastic_bottles" v="no"/>
+    <tag k="recycling:plastic_packaging" v="no"/>
+    <tag k="recycling:scrap_metal" v="no"/>
+    <tag k="recycling:small_appliances" v="no"/>
+    <tag k="recycling:waste" v="no"/>
+    <tag k="recycling:wood" v="no"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="3060713400" lat="52.5038077" lon="13.2626618">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="3062738958" lat="52.5037020" lon="13.2634712">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="3062738965" lat="52.5043809" lon="13.2640179">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="3063237781" lat="52.5025785" lon="13.2626469">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+
+</osm>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-13T09:11:02Z"/>
+
+  <node id="299208120" lat="52.4417235" lon="13.3269917">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="12207"/>
+    <tag k="addr:street" v="Ostpreußendamm"/>
+    <tag k="addr:suburb" v="Lichterfelde"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Recyclinghof Ostpreußendamm"/>
+    <tag k="opening_hours" v="Mo-We,Fr 07:00-17:00; Th 09:30-19:30; Sa 07:00-15:00"/>
+    <tag k="phone" v="030 75924900"/>
+    <tag k="recycling:batteries" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling_type" v="centre"/>
+    <tag k="website" v="http://www.bsr.de/8871.html"/>
+  </node>
+  <node id="442877823" lat="52.5270158" lon="13.3106192">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Recyclinghof Ilsenburger Straße"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:batteries" v="yes"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+  </node>
+  <node id="1289470037" lat="52.4797970" lon="13.3335945">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Karl Meyer Rohstoffverwertung"/>
+    <tag k="recycling:batteries" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="ref" v="Durlacher Str. ggü. Nr. 15"/>
+  </node>
+
+</osm>

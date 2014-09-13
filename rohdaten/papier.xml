@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-13T09:22:02Z"/>
+
+  <node id="290177735" lat="52.7176672" lon="13.1483199">
+    <tag k="addr:city" v="Oberkrämer OT Bärenklau"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:postcode" v="16727"/>
+    <tag k="addr:street" v="Dorfsstraße"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="292893043" lat="52.7193089" lon="13.1417411">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="316657544" lat="52.5285219" lon="13.4844319">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="316657545" lat="52.5285190" lon="13.4828806">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:batteries" v="no"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="320256921" lat="52.7219392" lon="13.0972532">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="364383970" lat="52.7405179" lon="13.0598626">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="385384011" lat="52.5086111" lon="13.5532367">
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Papierbank"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="401237999" lat="52.5600404" lon="13.4117151">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="401243531" lat="52.5504042" lon="13.4314896">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="417969371" lat="52.4212774" lon="12.4990175">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="418362138" lat="52.4226251" lon="12.4961164">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="418832782" lat="52.4236121" lon="12.5063444">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="442877823" lat="52.5270158" lon="13.3106192">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Recyclinghof Ilsenburger Straße"/>
+    <tag k="operator" v="BSR"/>
+    <tag k="recycling:batteries" v="yes"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+  </node>
+  <node id="455760486" lat="51.9879175" lon="13.0825917">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="472371169" lat="52.6560094" lon="13.5460478">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="492264503" lat="52.5077872" lon="13.5185425">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="496042346" lat="52.5308005" lon="13.5435278">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="505351444" lat="52.6787022" lon="13.5730096">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="no"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="546297057" lat="52.6605765" lon="13.5329986">
+    <tag k="name" v="DSD-Container"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="566376522" lat="52.5153155" lon="13.4398998">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="583253990" lat="52.6905934" lon="13.5494145">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="583290720" lat="52.6756532" lon="13.5396441">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="590037682" lat="52.6641278" lon="13.5250414">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="600406052" lat="52.4194595" lon="13.5117499">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="600406055" lat="52.4197362" lon="13.5128194">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="614818828" lat="52.4036513" lon="12.5581051">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="618443483" lat="52.5723836" lon="13.4454814">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="652613370" lat="52.1386016" lon="12.6052427">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="660666582" lat="52.0199743" lon="14.2892327">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="663345379" lat="52.3780877" lon="13.0910468">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="663345380" lat="52.3779774" lon="13.0927236">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="663345381" lat="52.3773781" lon="13.0920101">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="664655992" lat="52.3768852" lon="13.0915177">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="664656105" lat="52.3771768" lon="13.0921729">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="664656106" lat="52.3774022" lon="13.0909948">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="665425791" lat="52.6500059" lon="13.7213997">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Mitteldeutsche Logistic GmbH"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="691539873" lat="52.7161804" lon="13.4412645">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="698977882" lat="52.0116914" lon="13.6733310">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="710761818" lat="52.4776960" lon="13.5362322">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="710996110" lat="52.3477707" lon="12.7005687">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="766718536" lat="52.5824485" lon="13.4216055">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="769390288" lat="52.7620476" lon="13.2698236">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="837979712" lat="52.4167645" lon="12.5587759">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="840701338" lat="52.8373255" lon="13.4087600">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="872392320" lat="52.6404986" lon="12.5155858">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="891507920" lat="52.3291311" lon="13.6255298">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="902754029" lat="52.8222016" lon="12.9549113">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="no"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="944081633" lat="52.3630716" lon="13.3899261">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="1298412236" lat="52.5437128" lon="13.3516852">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="1298412237" lat="52.5434760" lon="13.3514990">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="1298412242" lat="52.5432740" lon="13.3519200">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="1298412256" lat="52.5430870" lon="13.3500540">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="1298412261" lat="52.5437588" lon="13.3516200">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="1298412280" lat="52.5436770" lon="13.3512140">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="1298412287" lat="52.5436020" lon="13.3511130">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="1305144769" lat="52.5294012" lon="13.4696276">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="1305144776" lat="52.5297199" lon="13.4707204">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="1357811549" lat="52.4069823" lon="12.5738683">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1360405884" lat="52.3979798" lon="13.2728327">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+  </node>
+  <node id="1360752110" lat="52.3979577" lon="13.2716105">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+  </node>
+  <node id="1360752132" lat="52.3984446" lon="13.2704037">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+  </node>
+  <node id="1360752135" lat="52.3987094" lon="13.2691610">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+  </node>
+  <node id="1360752146" lat="52.3991290" lon="13.2698884">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+  </node>
+  <node id="1434318202" lat="52.4276270" lon="13.3109100">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="12207"/>
+    <tag k="addr:street" v="Barnackufer"/>
+    <tag k="addr:suburb" v="Lichterfelde"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Bernd Klebs Recycling"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+    <tag k="recycling:beverage_cartons" v="yes"/>
+    <tag k="recycling:books" v="yes"/>
+    <tag k="recycling:cardboard" v="yes"/>
+    <tag k="recycling:cartons" v="yes"/>
+    <tag k="recycling:chipboard" v="yes"/>
+    <tag k="recycling:christmas_trees" v="yes"/>
+    <tag k="recycling:cork" v="yes"/>
+    <tag k="recycling:garden_waste" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:green_waste" v="yes"/>
+    <tag k="recycling:newspaper" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:paper_packaging" v="yes"/>
+    <tag k="recycling:plasterboard" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:plastic_bags" v="yes"/>
+    <tag k="recycling:plastic_bottles" v="yes"/>
+    <tag k="recycling:polyester" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:waste" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="website" v="http://www.klebs.info/"/>
+  </node>
+  <node id="1606169782" lat="52.6706832" lon="13.5245610">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1718430712" lat="52.4144184" lon="12.5396235">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+  </node>
+  <node id="1718430713" lat="52.4154850" lon="12.5384495">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+  </node>
+  <node id="1718430714" lat="52.4180244" lon="12.5394543">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+  </node>
+  <node id="1778145181" lat="52.0376469" lon="12.5204158">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="no"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1955445310" lat="52.3998277" lon="12.5500531">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1955489224" lat="52.4009325" lon="12.5595002">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="1985840944" lat="52.3896398" lon="13.8917248">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:batteries" v="no"/>
+    <tag k="recycling:cans" v="no"/>
+    <tag k="recycling:clothes" v="no"/>
+    <tag k="recycling:glass" v="no"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="no"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2000554802" lat="52.8138632" lon="13.3376109">
+    <tag k="amenity" v="recycling"/>
+    <tag k="note" v="Einwurfzeiten für Glas: Mo-Sa 07:00-13:00, 15:00-20:00"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:paper_packaging" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2102485067" lat="52.6551009" lon="13.5212449">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2110333680" lat="52.7464363" lon="13.1883035">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2142528775" lat="52.7718057" lon="13.2001341">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2207973038" lat="52.6496431" lon="13.5149373">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2328894150" lat="52.5406227" lon="13.0091178">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2328894206" lat="52.5439468" lon="12.9847699">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2344599010" lat="52.7223977" lon="13.1124431">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2383597492" lat="52.8766085" lon="14.0518402">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2419305416" lat="52.4065978" lon="12.5245373">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2419305426" lat="52.4073975" lon="12.5322324">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2453777632" lat="52.4666978" lon="13.2991504">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2487787013" lat="52.9199026" lon="12.8029329">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+  </node>
+  <node id="2525412776" lat="52.7634462" lon="13.6303572">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2525412870" lat="52.8404151" lon="13.6801630">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2555890887" lat="52.9159579" lon="12.7948721">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2555890960" lat="52.9174171" lon="12.7916149">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2555890971" lat="52.9180215" lon="12.7916939">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2555890976" lat="52.9186050" lon="12.7906188">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2555891002" lat="52.9194430" lon="12.7955733">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2555891039" lat="52.9196859" lon="12.7894604">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2602111242" lat="52.8042507" lon="13.2945361">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2690158042" lat="52.6496456" lon="13.3380909">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2691028345" lat="52.5817311" lon="13.3467899">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="6-18"/>
+    <tag k="addr:postcode" v="13407"/>
+    <tag k="addr:street" v="Lengeder Straße"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="BSR Recyclinghof Lengeder Straße"/>
+    <tag k="phone" v="+493075924900"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="website" v="http://www.bsr.de/8859.html"/>
+  </node>
+  <node id="2731427947" lat="52.1280302" lon="13.9437330">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2776740900" lat="52.7905940" lon="13.4876082">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2887958756" lat="52.4277314" lon="13.5900948">
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Müllhaus"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2921643920" lat="52.3959658" lon="13.0315224">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="2947878148" lat="52.4230431" lon="12.5531589">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:shoes" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2947878197" lat="52.4238927" lon="12.5541201">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2947888653" lat="52.4228376" lon="12.5506456">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2947930576" lat="52.4209306" lon="12.5504320">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="2971105436" lat="52.4893601" lon="13.4551632">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="3023197229" lat="51.9906119" lon="14.2034891">
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+  </node>
+  <node id="3062738958" lat="52.5037020" lon="13.2634712">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="3062738965" lat="52.5043809" lon="13.2640179">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+  <node id="3063237781" lat="52.5025785" lon="13.2626469">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+  </node>
+
+</osm>
