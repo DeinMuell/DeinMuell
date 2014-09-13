@@ -43,7 +43,27 @@ public class MainActivity extends Activity {
 			}
 		});
     }
+        Button angry_btn3 =  (Button) findViewById(R.id.angry_btn3);
+        angry_btn3.setOnClickListener(new View.OnClickListener() {
+			
+			@Override
+			public void onClick(View arg3) {
+				// TODO Auto-generated method stub
+				startActivity(new Intent(MainActivity.this, StatistikenActivity.class));
+			}
+		});
 
+    
+    Button angry_btn2 =  (Button) findViewById(R.id.angry_btn2);
+    angry_btn2.setOnClickListener(new View.OnClickListener() {
+		
+		@Override
+		public void onClick(View age2) {
+			// TODO Auto-generated method stub
+			startActivity(new Intent(MainActivity.this, SuchenActivity.class));
+		}
+	});
+}
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -67,9 +87,12 @@ public class MainActivity extends Activity {
 				@Override
 				public void onClick(DialogInterface dialog, int which) {
 					// TODO Auto-generated method stub
-					
+					dialog.dismiss();
 				}
 			});
+        	
+        	AlertDialog alertDialog = dialogBuilder.create();
+        	alertDialog.show(); 
         	
         }
         return super.onOptionsItemSelected(item);
