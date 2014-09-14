@@ -12,7 +12,7 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:background="@drawable/buttonshape7"
-        android:text="Trashie Yourself" />
+        android:text="Take a Trashie" />
 
     <ImageButton
         android:id="@+id/imageButton1"
