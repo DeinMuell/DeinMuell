@@ -7,8 +7,28 @@
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="19" />
+<<<<<<< HEAD
+
+    <permission
+        android:name="com.vogella.android.locationapi.maps.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="com.vogella.android.locationapi.maps.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+=======
     <uses-permission android:name="android.permission.CAMERA"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+>>>>>>> dcd0aef9afe6268de3ad5509be75d4437fe66095
 
     <application
         android:allowBackup="true"
@@ -26,6 +46,36 @@
         </activity>
         <activity
             android:name=".MeldenActivity"
+<<<<<<< HEAD
+            android:label="@string/MeldeButton"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".SuchenActivity"
+            android:label="@string/title_activity_suchen"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".StatistikenActivity"
+            android:label="@string/title_activity_statistiken"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".TrashieActivity"
+            android:label="@string/title_activity_trashie"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBchMq3u-6q85rIeIXjoCnHxUJIlWixLAU" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps" >
+=======
             android:label="@string/MeldeButton" >
         </activity>
         <activity
@@ -39,6 +89,7 @@
         <activity
             android:name=".TrashieActivity"
             android:label="@string/title_activity_trashie" >
+>>>>>>> dcd0aef9afe6268de3ad5509be75d4437fe66095
         </activity>
     </application>
 

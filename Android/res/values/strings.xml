@@ -29,5 +29,6 @@
     <string name="title_activity_suchen">Suchen</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_statistiken">Statistiken</string>
+    <string name="title_activity_maps">Karte</string>
 
 </resources>

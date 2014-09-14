@@ -1,0 +1,3955 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-09-13T08:48:02Z"/>
+
+  <node id="248735342" lat="52.4289771" lon="13.4249160">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="248735399" lat="52.4289640" lon="13.4307602">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="289295100" lat="52.4283140" lon="13.4260389">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="309424620" lat="52.5634566" lon="13.0381431">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="309424791" lat="52.5644938" lon="13.0443997">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="309424876" lat="52.5628560" lon="13.0361167">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="322110716" lat="52.5694302" lon="13.0517874">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="324596547" lat="52.5696356" lon="13.0523432">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="325161327" lat="52.5043624" lon="13.1800915">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="325161332" lat="52.5030766" lon="13.1795999">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="325161369" lat="52.5092045" lon="13.1801482">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="325161376" lat="52.5096426" lon="13.1804751">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="325161386" lat="52.5120941" lon="13.1822214">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="325161390" lat="52.5125029" lon="13.1824961">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="325161394" lat="52.5126078" lon="13.1827567">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="325161439" lat="52.5088587" lon="13.1800754">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="325161447" lat="52.5150246" lon="13.1842105">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="325655363" lat="52.5024175" lon="13.1853780">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="330946967" lat="52.5736984" lon="13.1157713">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="330947001" lat="52.5709060" lon="13.1090570">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="330947025" lat="52.5704990" lon="13.1047641">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="330947042" lat="52.5711305" lon="13.1047208">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="330947052" lat="52.5753981" lon="13.1059378">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="330947054" lat="52.5757488" lon="13.1058563">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="331515750" lat="52.5013229" lon="13.4658908">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="331515762" lat="52.5232594" lon="13.3827139">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="331515775" lat="52.5239933" lon="13.3832021">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="373432884" lat="52.4280421" lon="13.4230371">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="443690223" lat="52.2910981" lon="13.2612859">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="443690224" lat="52.2908724" lon="13.2608698">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="443690233" lat="52.2837229" lon="13.2086497">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="597836078" lat="52.6799571" lon="13.4323410">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="602326214" lat="52.6622010" lon="13.2767610">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="602326215" lat="52.6659175" lon="13.2831602">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="602326216" lat="52.6707646" lon="13.2805400">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="603714750" lat="52.6625907" lon="13.2742381">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="603714751" lat="52.6625788" lon="13.2743087">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="611104067" lat="52.6800813" lon="13.4323491">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="611104070" lat="52.6801596" lon="13.4323542">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="621202023" lat="52.4458843" lon="13.4473877">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="629101858" lat="52.4883548" lon="13.3911410">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="629101859" lat="52.4883407" lon="13.3912746">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="631600361" lat="52.4878734" lon="13.3911538">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="631626855" lat="52.4881652" lon="13.3913141">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="631626858" lat="52.4881992" lon="13.3909999">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="632382501" lat="52.5515881" lon="13.4084453">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="632382503" lat="52.5520744" lon="13.4085324">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="642224628" lat="52.6829265" lon="13.4263649">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="664166228" lat="52.4405454" lon="13.5164636">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="664166234" lat="52.4407843" lon="13.5163052">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="664166236" lat="52.4409545" lon="13.5166090">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="664166246" lat="52.4410749" lon="13.5168589">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="681324093" lat="52.4390605" lon="13.4985653">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="681324094" lat="52.4389867" lon="13.4985306">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="681324468" lat="52.4410994" lon="13.5081899">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="681324497" lat="52.4408051" lon="13.5099632">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="681324507" lat="52.4412938" lon="13.5091073">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="683801576" lat="52.4432925" lon="13.5018228">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="690378164" lat="52.6700546" lon="13.2685350">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="690378171" lat="52.6701891" lon="13.2720636">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="713856187" lat="52.7141101" lon="13.4396910">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="713856281" lat="52.7139842" lon="13.4395990">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="713856432" lat="52.7141589" lon="13.4394642">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="713856490" lat="52.7140185" lon="13.4393846">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="713856538" lat="52.7401143" lon="13.5120458">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="719596408" lat="52.5084817" lon="13.3258549">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="719596412" lat="52.5087643" lon="13.3254487">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="719596416" lat="52.5088297" lon="13.3255400">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="719596422" lat="52.5085640" lon="13.3262188">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="726902446" lat="52.7159669" lon="13.4342416">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="727633471" lat="52.3049620" lon="13.2528245">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="727637298" lat="52.3024476" lon="13.2575919">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="727637303" lat="52.3020817" lon="13.2578385">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="727637316" lat="52.3025947" lon="13.2568436">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="738315610" lat="52.3680960" lon="13.9962596">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="738315618" lat="52.3677930" lon="13.9968944">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="738410340" lat="52.3009875" lon="13.6257128">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="738447127" lat="52.5155500" lon="13.3266505">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="738604873" lat="52.3693195" lon="13.7000442">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="745241700" lat="52.6679776" lon="13.2815103">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="773657683" lat="52.3247353" lon="13.6237136">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="773663715" lat="52.3247072" lon="13.6235261">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="786049258" lat="52.7149666" lon="13.4401345">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="817872313" lat="52.3097760" lon="13.2525951">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="817872372" lat="52.3090389" lon="13.2508170">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="833045590" lat="52.4320860" lon="13.5302939">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="833045598" lat="52.4317578" lon="13.5324090">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="833045785" lat="52.4319212" lon="13.5300754">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="833045931" lat="52.4326360" lon="13.5290229">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="833045978" lat="52.4320414" lon="13.5286265">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="833046073" lat="52.4318804" lon="13.5322888">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="835805550" lat="52.4365639" lon="13.4985493">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="835805710" lat="52.4386834" lon="13.4937440">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="837696266" lat="52.4481709" lon="13.5091709">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="837696768" lat="52.4476121" lon="13.5089171">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="837697623" lat="52.4478000" lon="13.5089087">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="838429746" lat="52.5062741" lon="13.4657068">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="838429749" lat="52.5044620" lon="13.4676142">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="838454799" lat="52.4302121" lon="13.5271427">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="838455690" lat="52.4299438" lon="13.5261904">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="839950922" lat="52.7288860" lon="13.5934481">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="839950954" lat="52.7291699" lon="13.5923413">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="844088983" lat="52.7554484" lon="13.3737024">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="848507621" lat="52.4995149" lon="13.4180008">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="848507634" lat="52.4994586" lon="13.4179914">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851147440" lat="52.5169536" lon="13.3246504">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572239" lat="52.4052760" lon="13.5307616">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572272" lat="52.4098979" lon="13.5234979">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572308" lat="52.4199645" lon="13.5243527">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572333" lat="52.4140616" lon="13.5241150">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572379" lat="52.4131791" lon="13.5236953">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572478" lat="52.4133668" lon="13.5241344">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572492" lat="52.4165595" lon="13.5237137">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572538" lat="52.4193594" lon="13.5237126">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572593" lat="52.4172174" lon="13.5238928">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572638" lat="52.4193388" lon="13.5237760">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572641" lat="52.4122944" lon="13.5240565">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572683" lat="52.4149866" lon="13.5240206">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572827" lat="52.4159325" lon="13.5238604">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572841" lat="52.4185687" lon="13.5231367">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572906" lat="52.4060329" lon="13.5277685">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572971" lat="52.4191961" lon="13.5236518">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851572995" lat="52.4191974" lon="13.5235845">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851573165" lat="52.4130111" lon="13.5241439">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="851573278" lat="52.4116465" lon="13.5239787">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="853380473" lat="52.4391565" lon="13.5128847">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="853380646" lat="52.4385140" lon="13.5129819">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855355638" lat="52.4360406" lon="13.5139493">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855355679" lat="52.4326515" lon="13.5158029">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855355774" lat="52.4044997" lon="13.5230461">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855355811" lat="52.4123398" lon="13.5281372">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356123" lat="52.4044020" lon="13.5229858">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356197" lat="52.4319301" lon="13.5168546">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356284" lat="52.4051724" lon="13.5207737">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356290" lat="52.4393055" lon="13.5130267">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356334" lat="52.4053331" lon="13.5207790">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356341" lat="52.4050792" lon="13.5210069">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356436" lat="52.4308726" lon="13.5174712">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356472" lat="52.4049659" lon="13.5207699">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356491" lat="52.4355377" lon="13.5140298">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356723" lat="52.4129370" lon="13.5249637">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356729" lat="52.4063618" lon="13.5210099">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356825" lat="52.4052439" lon="13.5207786">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855356920" lat="52.4057545" lon="13.5205682">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855357075" lat="52.4125271" lon="13.5271297">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855357127" lat="52.4366451" lon="13.5137625">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855357354" lat="52.4049312" lon="13.5216083">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855357371" lat="52.4296990" lon="13.5169561">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855357547" lat="52.4305677" lon="13.5173343">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855357558" lat="52.4392920" lon="13.5134096">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855357641" lat="52.4348355" lon="13.5141458">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855358044" lat="52.4374325" lon="13.5137232">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855358277" lat="52.4298591" lon="13.5161534">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855358336" lat="52.4298904" lon="13.5159628">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855358463" lat="52.4302887" lon="13.5172149">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855358506" lat="52.4045455" lon="13.5232654">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855358639" lat="52.4047909" lon="13.5221519">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855358820" lat="52.4050728" lon="13.5207726">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855358894" lat="52.4300118" lon="13.5170885">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855359001" lat="52.4392961" lon="13.5132381">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="855359074" lat="52.4052323" lon="13.5203664">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851445" lat="52.4037556" lon="13.5169556">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851457" lat="52.4022074" lon="13.5166331">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851468" lat="52.4048737" lon="13.5157404">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851535" lat="52.4098008" lon="13.5177237">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851592" lat="52.4074349" lon="13.5203296">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851640" lat="52.4221404" lon="13.5190793">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851664" lat="52.4068983" lon="13.5195641">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851825" lat="52.4055465" lon="13.5150334">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851842" lat="52.4055482" lon="13.5168244">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851908" lat="52.4082408" lon="13.5194324">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851949" lat="52.4035214" lon="13.5179302">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856851978" lat="52.4063403" lon="13.5141900">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852001" lat="52.4044131" lon="13.5178340">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852040" lat="52.4102712" lon="13.5163355">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852076" lat="52.4056941" lon="13.5202352">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852084" lat="52.4210907" lon="13.5204437">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852112" lat="52.4070256" lon="13.5134427">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852281" lat="52.4036378" lon="13.5186484">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852284" lat="52.4078151" lon="13.5178946">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852288" lat="52.4028932" lon="13.5177041">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852345" lat="52.4213129" lon="13.5201800">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852360" lat="52.4100659" lon="13.5158661">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852363" lat="52.4077884" lon="13.5126210">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="856852376" lat="52.4090386" lon="13.5185491">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="861642771" lat="52.4477175" lon="13.4396415">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="861642784" lat="52.4469293" lon="13.4396896">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="861642820" lat="52.4461807" lon="13.4389098">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="861642837" lat="52.4456678" lon="13.4406581">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="861642850" lat="52.4474551" lon="13.4391531">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="861642869" lat="52.4460258" lon="13.4410520">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="861642870" lat="52.4478098" lon="13.4389477">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="861642900" lat="52.4460855" lon="13.4393527">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="861642901" lat="52.4471713" lon="13.4396787">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="862818239" lat="52.5114524" lon="13.2969802">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="906929742" lat="52.7078357" lon="13.4369304">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="906929745" lat="52.7077808" lon="13.4367532">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="906929748" lat="52.7072976" lon="13.4365184">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="906929749" lat="52.7077812" lon="13.4365443">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="923965766" lat="52.7073571" lon="13.4356809">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="923965813" lat="52.7073149" lon="13.4356691">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="924592340" lat="52.3975428" lon="13.4827106">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="924592568" lat="52.3973064" lon="13.4822765">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="924592656" lat="52.3976945" lon="13.4866378">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="926632448" lat="52.5210627" lon="13.4370422">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="color" v="orange"/>
+  </node>
+  <node id="933600881" lat="52.3970718" lon="13.4809021">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="933601632" lat="52.3972009" lon="13.4811851">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="937964928" lat="52.4179846" lon="13.4778306">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="942863063" lat="52.3891405" lon="13.5190844">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="942863556" lat="52.3891583" lon="13.5191473">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="942863643" lat="52.3460470" lon="13.4844629">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="945197044" lat="52.4874208" lon="13.4083699">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="945197045" lat="52.4876787" lon="13.4082870">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="946947199" lat="52.3601057" lon="13.4091727">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="946947418" lat="52.3652092" lon="13.4122855">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="946947434" lat="52.4017104" lon="13.5737441">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="948654986" lat="52.4181973" lon="13.5016314">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="948655149" lat="52.4216399" lon="13.4887384">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="948655197" lat="52.4221663" lon="13.5063062">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="948655344" lat="52.4200877" lon="13.4902688">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="948655454" lat="52.4200215" lon="13.4897092">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="948655705" lat="52.4168523" lon="13.4939575">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="948655984" lat="52.4168827" lon="13.4936702">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="948656001" lat="52.4139794" lon="13.4929323">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="948656026" lat="52.4206328" lon="13.4912374">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="960210822" lat="52.5099877" lon="13.2796303">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="960210862" lat="52.5100010" lon="13.2798558">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="966899319" lat="52.4887195" lon="13.4078018">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="967714191" lat="52.4833429" lon="13.4175757">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="967714253" lat="52.4838852" lon="13.4176808">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="967714325" lat="52.4837190" lon="13.4171713">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="967714425" lat="52.4838496" lon="13.4173653">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="967714470" lat="52.4835465" lon="13.4179014">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="967714700" lat="52.4834701" lon="13.4178082">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="967714854" lat="52.4833543" lon="13.4173143">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="987698966" lat="52.4098041" lon="13.0662346">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="987698996" lat="52.4107725" lon="13.0723459">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="987699023" lat="52.4110459" lon="13.0727151">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="987699071" lat="52.4062135" lon="13.0673968">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="987699133" lat="52.4079518" lon="13.0659668">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="987699157" lat="52.4104457" lon="13.0653924">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="987699185" lat="52.4104308" lon="13.0729699">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="987905174" lat="52.4050011" lon="13.0292317">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="989288023" lat="52.4110140" lon="13.0287890">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="989288040" lat="52.4116232" lon="13.0284319">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1070756036" lat="52.5099084" lon="13.2774716">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1073038077" lat="52.5192919" lon="13.3710618">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1074903031" lat="52.5225713" lon="13.3877904">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1074903055" lat="52.5227161" lon="13.3880740">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1074903061" lat="52.5210264" lon="13.3757790">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1075397099" lat="52.5213728" lon="13.3799022">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="layer" v="0"/>
+  </node>
+  <node id="1075397100" lat="52.5221894" lon="13.3844301">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1075544300" lat="52.5227464" lon="13.3898785">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1075544315" lat="52.5227712" lon="13.3901790">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1076950290" lat="52.5098920" lon="13.2732068">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1076950293" lat="52.5098391" lon="13.2735602">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1076950299" lat="52.5097200" lon="13.2746570">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1076954960" lat="52.5118058" lon="13.3865118">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1077168664" lat="52.5084374" lon="13.3903185">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1077168708" lat="52.5103803" lon="13.3898111">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1104514029" lat="52.2743543" lon="13.4142567">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1111017133" lat="52.5419818" lon="13.4204646">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620615" lat="52.5413874" lon="14.0644177">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620640" lat="52.5446124" lon="14.0768731">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620643" lat="52.5414217" lon="14.0542510">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620647" lat="52.5443518" lon="14.0824856">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620649" lat="52.5391293" lon="14.0863242">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620656" lat="52.5416873" lon="14.0611094">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620684" lat="52.5444134" lon="14.0714705">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620691" lat="52.5440687" lon="14.0742772">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620703" lat="52.5445538" lon="14.0817700">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620706" lat="52.5415146" lon="14.0608990">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620708" lat="52.5426711" lon="14.0682584">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620712" lat="52.5435875" lon="14.0719035">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620716" lat="52.5447008" lon="14.0804131">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620717" lat="52.5415085" lon="14.0543664">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1147620722" lat="52.5426728" lon="14.0857543">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1152937593" lat="52.5104737" lon="13.3934333">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1174834381" lat="52.6158464" lon="13.3491800">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1179081065" lat="52.4623239" lon="13.3146619">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1184265159" lat="52.6107457" lon="13.3457541">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1192969376" lat="52.4559163" lon="13.3328613">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1192976670" lat="52.5467018" lon="13.3435370">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1198781648" lat="52.4079023" lon="13.0929276">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1212023518" lat="52.7556881" lon="13.3768323">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1212023521" lat="52.7556664" lon="13.3766382">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1213221003" lat="52.5472994" lon="13.4058718">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1213221742" lat="52.5479646" lon="13.4071217">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1213221744" lat="52.5479406" lon="13.4073746">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1213221747" lat="52.5481129" lon="13.4073645">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1213226298" lat="52.5479877" lon="13.4065077">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1213226798" lat="52.5471052" lon="13.4075838">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1214762287" lat="52.6373596" lon="13.1974092">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1214938336" lat="52.7881304" lon="14.0321712">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1214938367" lat="52.7881492" lon="14.0321373">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="name" v="DogStation"/>
+  </node>
+  <node id="1214938376" lat="52.7883495" lon="14.0318221">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1230426424" lat="52.4184741" lon="13.4779696">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1230426430" lat="52.4188549" lon="13.4773695">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1230426432" lat="52.4191700" lon="13.4764596">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1230426434" lat="52.4195870" lon="13.4746267">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1230474127" lat="52.4212497" lon="13.4683757">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1234722640" lat="52.6230581" lon="13.2346987">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1234722726" lat="52.6198243" lon="13.2420131">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1278562555" lat="52.3432387" lon="12.9466970">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1278562556" lat="52.3426281" lon="12.9461455">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1279408600" lat="52.3550092" lon="12.9235385">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1283163964" lat="52.5146484" lon="13.4889679">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1293267178" lat="52.5454356" lon="13.3540822">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1293267197" lat="52.5453338" lon="13.3540804">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1293267218" lat="52.5455283" lon="13.3547021">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1293267257" lat="52.5457224" lon="13.3551769">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1295813840" lat="52.4607484" lon="13.3879404">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1295813872" lat="52.4604920" lon="13.3876955">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1295813898" lat="52.4607588" lon="13.3876612">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1298353195" lat="52.5436791" lon="13.3511801">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978334" lat="52.5367554" lon="13.4327770">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978378" lat="52.5369946" lon="13.4327813">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978416" lat="52.5375962" lon="13.4304895">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978431" lat="52.5376135" lon="13.4321864">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978443" lat="52.5378262" lon="13.4337703">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978468" lat="52.5381985" lon="13.4312123">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978479" lat="52.5369923" lon="13.4322439">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978497" lat="52.5384812" lon="13.4316820">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978498" lat="52.5384040" lon="13.4337950">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978513" lat="52.5368690" lon="13.4326315">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1334978530" lat="52.5380448" lon="13.4333736">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1336871610" lat="52.4903502" lon="13.3867402">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1336954982" lat="52.5362031" lon="13.4356620">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1336955013" lat="52.5348908" lon="13.4381048">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1336955034" lat="52.5360207" lon="13.4356533">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1340391541" lat="52.4568252" lon="12.9641101">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1354927836" lat="52.0691408" lon="12.9282988">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1354927925" lat="52.0746803" lon="12.9351534">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1356471336" lat="52.4711327" lon="13.3456661">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1356471514" lat="52.4718204" lon="13.3463371">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1359148797" lat="52.7399095" lon="12.5801926">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1359167882" lat="52.5357322" lon="13.4269278">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1359167884" lat="52.5358117" lon="13.4272396">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1359194227" lat="52.5350406" lon="13.4313953">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1367756635" lat="52.5408022" lon="13.2325604">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1368300388" lat="52.5280075" lon="13.3812998">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1368304722" lat="52.5279798" lon="13.3813413">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1368515957" lat="52.8127369" lon="14.2200822">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1370014544" lat="52.5443868" lon="13.2463194">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1370121748" lat="52.5145537" lon="13.4744121">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1383533666" lat="52.3702234" lon="13.6170067">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1383533669" lat="52.3702715" lon="13.6170427">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1387621246" lat="52.4789405" lon="13.2939502">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387621249" lat="52.4791800" lon="13.2920940">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387642098" lat="52.4754599" lon="13.3035377">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387642099" lat="52.4783956" lon="13.3089186">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1387642101" lat="52.4788707" lon="13.2954411">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387642102" lat="52.4789114" lon="13.2956727">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387642103" lat="52.4789484" lon="13.3097996">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1387642104" lat="52.4791416" lon="13.3102452">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1387642105" lat="52.4801024" lon="13.3039643">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1387642106" lat="52.4801069" lon="13.3038123">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1387642107" lat="52.4812403" lon="13.2959969">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1387869524" lat="52.4756219" lon="13.2903539">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387869525" lat="52.4757520" lon="13.2902177">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387869529" lat="52.4758350" lon="13.2875114">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387869533" lat="52.4759872" lon="13.2863786">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1387869538" lat="52.4765159" lon="13.2909082">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387869542" lat="52.4792784" lon="13.2851828">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387869547" lat="52.4792883" lon="13.2857090">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387869549" lat="52.4793100" lon="13.2854745">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387869553" lat="52.4793388" lon="13.2860241">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1387989085" lat="52.4790326" lon="13.2858482">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1390295677" lat="52.4348773" lon="13.2605638">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1390295678" lat="52.4349186" lon="13.2601196">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1390295679" lat="52.4350035" lon="13.2599080">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1390295680" lat="52.4351511" lon="13.2608422">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1390295681" lat="52.4352673" lon="13.2603197">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1390313384" lat="52.4644969" lon="13.2773057">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1390313385" lat="52.4735966" lon="13.2786748">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1392192398" lat="52.4632240" lon="13.3269802">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1392192401" lat="52.4632902" lon="13.3267571">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1393509235" lat="52.5123099" lon="13.3602377">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1394009807" lat="52.5463710" lon="13.2398084">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1395086052" lat="52.5433491" lon="13.2325881">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1396396806" lat="52.4752857" lon="13.3036394">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="BSR"/>
+  </node>
+  <node id="1396422232" lat="52.5398164" lon="13.2394037">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1397552559" lat="52.5402743" lon="13.2373070">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1397552599" lat="52.5405961" lon="13.2383246">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1398422317" lat="52.5441750" lon="13.2462411">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1400227485" lat="52.5455143" lon="13.2324447">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1400227534" lat="52.5464349" lon="13.2338541">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1400227536" lat="52.5464425" lon="13.2322823">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1400227549" lat="52.5466254" lon="13.2343213">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1400435445" lat="52.5472667" lon="13.2350488">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1400435461" lat="52.5473445" lon="13.2351376">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1400511909" lat="52.5355681" lon="13.4319991">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1401087654" lat="52.5369439" lon="13.4283432">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1401087655" lat="52.5369505" lon="13.4279838">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1401585124" lat="52.5468001" lon="13.2318123">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1401585159" lat="52.5477739" lon="13.2353751">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1401627779" lat="52.5475060" lon="13.2314950">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1404905417" lat="52.5696848" lon="13.0508208">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1404905589" lat="52.5698193" lon="13.0509053">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1408770959" lat="52.4511964" lon="13.5104636">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1408771021" lat="52.4512606" lon="13.5103712">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1411633804" lat="52.5599011" lon="13.0893306">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1411633806" lat="52.5594560" lon="13.0900120">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1411633808" lat="52.5599957" lon="13.0889953">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1411633813" lat="52.5597380" lon="13.0899584">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1411633814" lat="52.5597641" lon="13.0898565">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1411633816" lat="52.5595538" lon="13.0896310">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1411633818" lat="52.5597497" lon="13.0889171">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1412236730" lat="52.4312345" lon="13.5164610">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1412236731" lat="52.4313273" lon="13.5177308">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1412236732" lat="52.4354646" lon="13.5213098">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1412236733" lat="52.4360092" lon="13.5222580">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1412236734" lat="52.4374604" lon="13.5247732">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1412482533" lat="52.5596516" lon="13.0907762">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1412616457" lat="52.5606286" lon="13.0894846">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1412616458" lat="52.5605796" lon="13.0893639">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1412616460" lat="52.5600252" lon="13.0893398">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1412616461" lat="52.5601622" lon="13.0890501">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1418549015" lat="52.5610687" lon="13.0877773">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1418549030" lat="52.5612781" lon="13.0874038">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1418549034" lat="52.5617510" lon="13.0875324">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1418595429" lat="52.5607515" lon="13.0919473">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1418638993" lat="52.5601522" lon="13.0913965">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1418639002" lat="52.5597111" lon="13.0908588">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1419412373" lat="52.4311917" lon="13.3866739">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1420360920" lat="52.4053218" lon="13.0062865">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1421882115" lat="52.4925813" lon="13.3737976">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1425718955" lat="52.4084466" lon="12.5570522">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1425719069" lat="52.4110268" lon="12.5577179">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1425773195" lat="52.4951090" lon="13.3791597">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1425773197" lat="52.4952222" lon="13.3791602">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1425773200" lat="52.4954014" lon="13.3791919">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1425773204" lat="52.4957402" lon="13.3792453">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1425778024" lat="52.4108909" lon="12.5629987">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1428483494" lat="52.4080827" lon="12.5525980">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1436423351" lat="52.4479338" lon="13.4493933">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1436423355" lat="52.4484772" lon="13.4493216">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1442452775" lat="52.5237028" lon="13.1975074">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1443506871" lat="52.5657745" lon="13.0464932">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1445736358" lat="52.5688301" lon="13.0512004">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1445736359" lat="52.5697056" lon="13.0512836">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1446390548" lat="52.4458944" lon="13.4472950">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1446541636" lat="52.4113068" lon="12.5550693">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1446541640" lat="52.4119135" lon="12.5557439">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1446541674" lat="52.4158110" lon="12.5667004">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1459406769" lat="52.4109355" lon="12.5384612">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1459406773" lat="52.4111730" lon="12.5391338">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1459406774" lat="52.4116916" lon="12.5368937">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1459406775" lat="52.4117584" lon="12.5381991">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1459406776" lat="52.4120791" lon="12.5368724">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1461048606" lat="52.3421172" lon="13.4083901">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1484094690" lat="52.4465909" lon="13.4379871">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1487622402" lat="52.4882030" lon="13.3018470">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1496353304" lat="52.4847485" lon="13.3186468">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1507947405" lat="52.4585470" lon="13.4356010">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1515071727" lat="52.4896823" lon="13.4309840">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1524609118" lat="52.4837918" lon="13.3840063">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1533042809" lat="52.4478650" lon="13.5532734">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1533045027" lat="52.4478635" lon="13.5532732">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1533056225" lat="52.4476171" lon="13.5327610">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1533058488" lat="52.4424768" lon="13.5400833">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1534147665" lat="52.4899372" lon="13.4291502">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1534147882" lat="52.4905424" lon="13.4318605">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1534147885" lat="52.4912527" lon="13.4291640">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1547100731" lat="52.6644346" lon="13.5253707">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1548522721" lat="52.6660379" lon="13.5294221">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1553912705" lat="52.4379667" lon="13.5033415">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1553912720" lat="52.4382249" lon="13.5030967">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1557903679" lat="52.6612327" lon="13.5324075">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1560224887" lat="52.4327635" lon="13.5292398">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1568241635" lat="52.4306324" lon="13.5288914">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1568241657" lat="52.4310357" lon="13.5283076">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1568241768" lat="52.4318140" lon="13.5289463">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1568241791" lat="52.4320568" lon="13.5285399">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1568241812" lat="52.4322716" lon="13.5282090">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1568241814" lat="52.4323220" lon="13.5286177">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1571848921" lat="52.8095254" lon="13.0370967">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1576973964" lat="52.4882678" lon="13.4288389">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1576973986" lat="52.4883646" lon="13.4291073">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1576974027" lat="52.4901740" lon="13.4276994">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1576974038" lat="52.4902767" lon="13.4275242">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1578231229" lat="52.4906237" lon="13.4315970">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1584735468" lat="52.5387816" lon="13.4218915">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1584735488" lat="52.5387599" lon="13.4219572">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1584735491" lat="52.5387707" lon="13.4219244">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1584735494" lat="52.5387924" lon="13.4218587">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1584735495" lat="52.5385734" lon="13.4217277">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1584735502" lat="52.5385626" lon="13.4217605">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1584735536" lat="52.5385951" lon="13.4216620">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1584735538" lat="52.5385843" lon="13.4216948">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1587217950" lat="52.6549380" lon="13.5237666">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1596019423" lat="52.6608529" lon="13.5305329">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1596104562" lat="52.6743333" lon="13.5367549">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1596104564" lat="52.6744347" lon="13.5371718">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1597393968" lat="52.5494903" lon="13.4481645">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1604592517" lat="52.4300709" lon="13.5269534">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1604592521" lat="52.4301724" lon="13.5267296">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1606179814" lat="52.4302414" lon="13.5278849">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1631216961" lat="52.4925538" lon="13.4307061">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1631217239" lat="52.4930184" lon="13.4311649">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1631217449" lat="52.4931323" lon="13.4313111">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1631217555" lat="52.4932719" lon="13.4282538">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1631217593" lat="52.4934284" lon="13.4279816">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1631217757" lat="52.4944854" lon="13.4248498">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1631217781" lat="52.4945313" lon="13.4251518">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1633400060" lat="52.5074621" lon="13.4966817">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="note:de" v="+ laterne"/>
+  </node>
+  <node id="1633400065" lat="52.5078936" lon="13.4968763">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1651978154" lat="52.4174366" lon="13.0544704">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1652018240" lat="52.4168377" lon="13.0520992">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653118483" lat="52.4094368" lon="13.5263728">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653118540" lat="52.4096496" lon="13.5247432">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653118593" lat="52.4097345" lon="13.5240740">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653118968" lat="52.4159996" lon="13.5260090">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653118978" lat="52.4161461" lon="13.5251660">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653119023" lat="52.4162842" lon="13.5243614">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653119036" lat="52.4164740" lon="13.5232776">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653119195" lat="52.4183113" lon="13.5358634">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653119215" lat="52.4183661" lon="13.5367179">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653119221" lat="52.4183998" lon="13.5375256">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1653119394" lat="52.4209300" lon="13.5391154">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1660416386" lat="52.8106295" lon="13.0395078">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1670941116" lat="52.4101111" lon="13.5590557">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1672300909" lat="52.3979900" lon="13.5370355">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1672300911" lat="52.3980042" lon="13.5369957">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1672301318" lat="52.4014750" lon="13.5192009">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1672301336" lat="52.4018364" lon="13.5201491">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1672301340" lat="52.4032150" lon="13.5193533">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1673899709" lat="52.4015737" lon="13.5646392">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1690497019" lat="52.4290911" lon="13.4946267">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1693456767" lat="52.4191579" lon="13.4985399">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1693456810" lat="52.4204122" lon="13.5014431">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1693456843" lat="52.4212721" lon="13.4947934">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:postcode" v="12357"/>
+    <tag k="addr:street" v="Prierosser Straße"/>
+    <tag k="addr:suburb" v="Rudow"/>
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1693456888" lat="52.4270478" lon="13.4952573">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1693737910" lat="52.4200712" lon="13.4876161">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1693737958" lat="52.4213934" lon="13.4898439">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1693738022" lat="52.4223839" lon="13.4861702">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1695862230" lat="52.4141332" lon="13.4891042">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1695862234" lat="52.4145958" lon="13.4895599">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1696656028" lat="52.4040273" lon="13.4781236">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1696656038" lat="52.4050180" lon="13.4804410">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1696656052" lat="52.4051143" lon="13.4800229">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1696656075" lat="52.4054220" lon="13.4810594">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1696656105" lat="52.4060265" lon="13.4814412">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1696656442" lat="52.4205987" lon="13.4734299">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1696656448" lat="52.4206219" lon="13.4803298">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1696656463" lat="52.4207482" lon="13.4771348">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1696656464" lat="52.4207499" lon="13.4768950">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1696912407" lat="52.5128342" lon="13.5893333">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1699886401" lat="52.3595899" lon="14.0615647">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1705263991" lat="52.4414515" lon="13.5029380">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1707436750" lat="52.2966717" lon="13.9871955">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1707437009" lat="52.3227309" lon="14.0308899">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1707437236" lat="52.3279543" lon="14.0254173">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1708709778" lat="52.4444942" lon="13.2604871">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1734264923" lat="52.5128746" lon="13.5751931">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737529849" lat="52.4069714" lon="13.4826535">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737529881" lat="52.4095379" lon="13.4862796">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737529888" lat="52.4100868" lon="13.4867492">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737529910" lat="52.4124087" lon="13.4877109">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737529914" lat="52.4126309" lon="13.4863827">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737529930" lat="52.4129559" lon="13.4874469">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737562891" lat="52.4141536" lon="13.4904588">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737562899" lat="52.4147986" lon="13.4912377">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737562901" lat="52.4150998" lon="13.4913474">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737562903" lat="52.4151889" lon="13.4911190">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737562905" lat="52.4156497" lon="13.4914413">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737562908" lat="52.4169960" lon="13.4921499">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1737562909" lat="52.4170076" lon="13.4928352">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1745579035" lat="52.5705832" lon="13.5414189">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="image" v="http://i.imgur.com/flgpKl.jpg"/>
+    <tag k="source" v="Garmin Oregon 550"/>
+  </node>
+  <node id="1749703245" lat="52.4996102" lon="12.9456641">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1749703345" lat="52.5005727" lon="12.9453711">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1757753425" lat="52.4730889" lon="13.3712547">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1757753434" lat="52.4731547" lon="13.3710325">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1757753586" lat="52.4737684" lon="13.3716862">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1761402301" lat="52.4875705" lon="13.3421531">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1778493805" lat="52.4896694" lon="13.3007517">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1781070940" lat="52.4992057" lon="13.3722558">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1783708322" lat="52.4926032" lon="13.4482254">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1802299643" lat="52.4610425" lon="13.3339874">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1802299644" lat="52.4616267" lon="13.3316527">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1802299645" lat="52.4628768" lon="13.3332500">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1810294265" lat="52.4026959" lon="13.0758280">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1813852473" lat="52.4969472" lon="13.3673420">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1814087030" lat="52.5046264" lon="13.3907389">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="Berliner Stadtreinigung"/>
+  </node>
+  <node id="1814134271" lat="52.5052304" lon="13.3906544">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="Berliner Stadtreinigung"/>
+  </node>
+  <node id="1814134272" lat="52.5052857" lon="13.3907984">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="Berliner Stadtreinigung"/>
+  </node>
+  <node id="1815335450" lat="52.5222638" lon="13.3974531">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1815335453" lat="52.5223119" lon="13.3977575">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1816817740" lat="52.5204068" lon="13.4026445">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="1816817776" lat="52.5224253" lon="13.4149307">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="fixme" v="exact pos"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="1816817796" lat="52.5228647" lon="13.3991792">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="1818863017" lat="52.5229980" lon="13.3986916">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="memory"/>
+  </node>
+  <node id="1828141518" lat="52.5103385" lon="13.4987013">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="Berliner Stadtreinigung"/>
+  </node>
+  <node id="1842654802" lat="52.4214208" lon="13.4801695">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1843866470" lat="52.5045888" lon="13.3430147">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1843866474" lat="52.5056461" lon="13.3461662">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1845844960" lat="52.5640023" lon="13.3929048">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1845845440" lat="52.5642743" lon="13.3930240">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1847471334" lat="52.5574111" lon="13.3914008">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1848372507" lat="52.4910683" lon="13.4387301">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1849533930" lat="52.5623465" lon="13.3947917">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1852107746" lat="52.2514674" lon="13.8943346">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1852934630" lat="52.2425845" lon="13.6364609">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1870089949" lat="52.4297813" lon="13.4283278">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1870089963" lat="52.4316206" lon="13.4168900">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1882228411" lat="52.4169615" lon="13.4911961">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1883944039" lat="52.4106338" lon="13.4798603">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1884072092" lat="52.4090924" lon="13.4854642">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1884072098" lat="52.4127710" lon="13.4881962">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1884223031" lat="52.4163082" lon="13.4923772">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1884333745" lat="52.4174279" lon="13.4812409">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1884333755" lat="52.4174657" lon="13.4821612">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1885637104" lat="52.4180050" lon="13.4951598">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1885637135" lat="52.4182205" lon="13.4951213">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1890237699" lat="52.4193072" lon="13.4792531">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1890237707" lat="52.4197242" lon="13.4775679">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1890237736" lat="52.4198136" lon="13.4786770">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1890306995" lat="52.4232448" lon="13.4736272">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="barrier" v="bollard"/>
+  </node>
+  <node id="1890307019" lat="52.4232477" lon="13.4738137">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="barrier" v="bollard"/>
+  </node>
+  <node id="1890307021" lat="52.4232589" lon="13.4734240">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1890307063" lat="52.4233729" lon="13.4734219">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1890307065" lat="52.4233748" lon="13.4738027">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="barrier" v="bollard"/>
+  </node>
+  <node id="1890307068" lat="52.4233777" lon="13.4736257">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="barrier" v="bollard"/>
+  </node>
+  <node id="1894663495" lat="52.4201243" lon="13.4750958">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1894663501" lat="52.4201955" lon="13.4765605">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1894663511" lat="52.4203266" lon="13.4766848">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1894663518" lat="52.4213218" lon="13.4751715">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1894726016" lat="52.4220110" lon="13.4751491">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1895017198" lat="52.4233073" lon="13.4771003">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1895017230" lat="52.4234276" lon="13.4742408">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1896519265" lat="52.4661471" lon="13.4384254">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1898715588" lat="52.4233374" lon="13.4787607">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1906766859" lat="52.4098597" lon="13.5228645">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1906766860" lat="52.4099488" lon="13.5228842">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1906766863" lat="52.4104782" lon="13.5230929">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1906766883" lat="52.4147706" lon="13.5233630">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1906766893" lat="52.4198105" lon="13.5217064">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1906766894" lat="52.4211860" lon="13.5215059">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1906766895" lat="52.4223444" lon="13.5215535">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1906766896" lat="52.4230429" lon="13.5215280">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1907424724" lat="52.4513710" lon="13.2876266">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1914080826" lat="52.3897764" lon="13.2582170">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1914080836" lat="52.3920040" lon="13.2506497">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1914080838" lat="52.3943353" lon="13.2511323">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1915345962" lat="52.4061907" lon="13.4967564">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1915345977" lat="52.4063104" lon="13.4993234">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1915346063" lat="52.4149276" lon="13.4882003">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1915346079" lat="52.4156459" lon="13.4863414">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1915346103" lat="52.4170465" lon="13.4832751">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1917378504" lat="52.4229364" lon="13.4703954">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1917378531" lat="52.4235215" lon="13.4702485">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1917378537" lat="52.4235871" lon="13.4695331">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1917378543" lat="52.4236019" lon="13.4664730">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1917378544" lat="52.4236168" lon="13.4691754">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1917378545" lat="52.4237699" lon="13.4675433">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1917378549" lat="52.4242433" lon="13.4641188">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1917378552" lat="52.4242633" lon="13.4635441">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1917378555" lat="52.4243020" lon="13.4637853">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1917419181" lat="52.4260471" lon="13.4654343">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1922316238" lat="52.3632027" lon="13.1862522">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1922327740" lat="52.3638613" lon="13.1860806">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1922327742" lat="52.3651583" lon="13.1860586">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1922327750" lat="52.3655450" lon="13.1858440">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1922327753" lat="52.3657579" lon="13.1857313">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1925850331" lat="52.5054274" lon="13.4493865">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="1925906788" lat="52.5055315" lon="13.4498882">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="1926102269" lat="52.5058337" lon="13.4494341">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1928717616" lat="52.1114133" lon="14.2071857">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="cargo" v="passengers"/>
+  </node>
+  <node id="1929380204" lat="52.4046491" lon="13.4961040">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1929380215" lat="52.4054695" lon="13.4968627">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1929810004" lat="52.4161931" lon="13.4847428">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1929810008" lat="52.4185680" lon="13.4794005">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1933518096" lat="52.6511934" lon="13.5111443">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1933518098" lat="52.6551032" lon="13.5336039">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1935182233" lat="52.4258151" lon="13.5229611">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1935182235" lat="52.4258738" lon="13.5226504">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1935182236" lat="52.4258973" lon="13.5230770">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1935182237" lat="52.4259347" lon="13.5223355">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1939482779" lat="52.7159656" lon="13.2803703">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1940728866" lat="52.5078661" lon="13.4550977">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="Berliner Stadtreinigung"/>
+  </node>
+  <node id="1940846790" lat="52.5090163" lon="13.4557294">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="Berliner Stadtreinigung"/>
+  </node>
+  <node id="1943486669" lat="52.5099920" lon="13.4552313">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="operator" v="Berliner Stadtreinigung"/>
+  </node>
+  <node id="1948771438" lat="52.5540286" lon="13.3730165">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1965562841" lat="52.3686310" lon="13.9964482">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1965563901" lat="52.4408715" lon="13.5875841">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1965563948" lat="52.4409265" lon="13.5869369">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1965564072" lat="52.4416993" lon="13.6026221">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1965564150" lat="52.4419056" lon="13.6041416">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1968827082" lat="52.2891798" lon="12.9973404">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1969213712" lat="52.4823715" lon="13.3393073">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1977017049" lat="52.4211773" lon="13.4625760">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1977017055" lat="52.4212329" lon="13.4622809">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1981922127" lat="52.4239675" lon="13.4911929">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1981922129" lat="52.4241946" lon="13.4879841">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1981922130" lat="52.4255927" lon="13.4906901">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1981922134" lat="52.4261785" lon="13.4878924">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1983613072" lat="52.4233330" lon="13.4791036">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1987177276" lat="52.4928992" lon="13.4617209">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1989446445" lat="52.5522688" lon="13.3419693">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1989446447" lat="52.5519980" lon="13.3415673">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1989449966" lat="52.5515675" lon="13.3408750">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1989459994" lat="52.5501223" lon="13.3422537">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1989464044" lat="52.5487818" lon="13.3443726">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1995481848" lat="52.4031774" lon="13.5008054">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481855" lat="52.4033519" lon="13.5009923">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481861" lat="52.4035775" lon="13.5011690">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481871" lat="52.4036632" lon="13.5007356">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481880" lat="52.4037431" lon="13.5014671">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481886" lat="52.4038715" lon="13.5018004">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481891" lat="52.4041004" lon="13.5021953">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481896" lat="52.4041525" lon="13.5022042">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481902" lat="52.4041741" lon="13.5023338">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481910" lat="52.4042990" lon="13.5025698">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481917" lat="52.4043787" lon="13.5030143">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481925" lat="52.4044164" lon="13.5029054">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481934" lat="52.4044986" lon="13.5028805">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481937" lat="52.4045373" lon="13.5034123">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481938" lat="52.4046031" lon="13.5037239">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481944" lat="52.4046553" lon="13.5030986">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481947" lat="52.4047581" lon="13.5041231">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481951" lat="52.4049104" lon="13.5045207">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481957" lat="52.4049269" lon="13.5046753">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481968" lat="52.4051091" lon="13.5050489">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481973" lat="52.4052078" lon="13.5053170">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481978" lat="52.4052733" lon="13.4992408">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481984" lat="52.4053769" lon="13.5059730">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995481999" lat="52.4054253" lon="13.5054341">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995482011" lat="52.4054388" lon="13.5052712">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995482018" lat="52.4054446" lon="13.5056950">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995482020" lat="52.4054530" lon="13.5049221">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995482028" lat="52.4054542" lon="13.5056128">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995482032" lat="52.4117446" lon="13.4943197">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995644911" lat="52.4039071" lon="13.5106418">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995644943" lat="52.4056925" lon="13.5067490">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995644945" lat="52.4057216" lon="13.5068076">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995644950" lat="52.4058468" lon="13.5070573">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995644953" lat="52.4058813" lon="13.5068588">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995644954" lat="52.4058999" lon="13.5069203">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995644958" lat="52.4059335" lon="13.5068685">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995644971" lat="52.4060473" lon="13.5072521">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995644983" lat="52.4061211" lon="13.5073932">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995644991" lat="52.4061847" lon="13.5075269">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995720451" lat="52.4038010" lon="13.5025041">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995720459" lat="52.4039439" lon="13.5075287">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1995720479" lat="52.4042218" lon="13.5035834">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="1996059280" lat="52.3925408" lon="13.2605005">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2007004889" lat="52.4205235" lon="13.5384633">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2008876903" lat="52.4196964" lon="13.5405538">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2011559635" lat="52.4217652" lon="13.4775995">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2011559637" lat="52.4219738" lon="13.4775769">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2019520496" lat="52.4202312" lon="13.4710732">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2020381245" lat="52.4245717" lon="13.4649198">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2021286600" lat="52.4992001" lon="13.3153900">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2021286617" lat="52.5035367" lon="13.3059078">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2021286618" lat="52.5035563" lon="13.3077157">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2021286623" lat="52.5037163" lon="13.3074689">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2021286661" lat="52.5743580" lon="13.3575994">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2021286669" lat="52.5748992" lon="13.3544987">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2021286670" lat="52.5751209" lon="13.3532059">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2022056054" lat="52.4962072" lon="13.3786692">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2023933194" lat="52.4781161" lon="13.3984039">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2032185693" lat="52.4245749" lon="13.4806195">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2032185725" lat="52.4246080" lon="13.4808479">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2052563144" lat="52.4270309" lon="13.4566899">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2052563150" lat="52.4276460" lon="13.4555650">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2053563946" lat="52.4880737" lon="13.3859011">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2055871410" lat="52.6587984" lon="13.5300890">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2078713403" lat="52.3750737" lon="13.6525321">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2081122034" lat="52.4119269" lon="13.4875014">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2083675605" lat="52.4178206" lon="13.4803400">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2088512291" lat="52.4249910" lon="13.4776145">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2088512300" lat="52.4250907" lon="13.4776992">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2101296076" lat="52.4334806" lon="12.4907574">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2101296077" lat="52.4289300" lon="12.4885333">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2143425623" lat="52.4926889" lon="13.3802644">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2143425625" lat="52.4931000" lon="13.3816018">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2143425628" lat="52.4933156" lon="13.3822285">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2143425638" lat="52.4936678" lon="13.3832588">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2146571192" lat="52.5225895" lon="13.3940620">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2158525151" lat="52.5727285" lon="13.3080799">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="2159902244" lat="52.5759759" lon="13.3074456">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2163152093" lat="52.4217557" lon="13.7535790">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2163152099" lat="52.4194787" lon="13.7546841">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2168549574" lat="52.5506958" lon="13.4104819">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2169668973" lat="52.3684937" lon="13.7004479">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2169668998" lat="52.3703853" lon="13.6842389">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2178855549" lat="52.2982274" lon="13.6288260">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2178855550" lat="52.2985246" lon="13.6285530">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2178855551" lat="52.2986568" lon="13.6287181">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2178855552" lat="52.2987533" lon="13.6290608">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2181314424" lat="52.4160760" lon="13.4922484">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2184432258" lat="52.2791674" lon="13.5940167">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2184432310" lat="52.2868555" lon="13.6154929">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2184432312" lat="52.2874801" lon="13.6159195">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2184432385" lat="52.2905721" lon="13.6180757">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2184432388" lat="52.2915222" lon="13.6189422">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2184432404" lat="52.2931066" lon="13.6208960">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2184432452" lat="52.2953725" lon="13.6304835">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2184432463" lat="52.2956230" lon="13.6275794">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2184432493" lat="52.2958718" lon="13.6305999">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2187175626" lat="52.5242620" lon="13.1965790">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2187175627" lat="52.5235517" lon="13.1964004">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2187175628" lat="52.5248640" lon="13.1973539">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2187175629" lat="52.5242363" lon="13.2005166">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2194520452" lat="52.4238596" lon="13.7879268">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2194520526" lat="52.4256389" lon="13.8078818">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2194520539" lat="52.4258419" lon="13.8078805">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2200322924" lat="52.3214891" lon="13.6404491">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2200322930" lat="52.3235268" lon="13.6395074">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2200322933" lat="52.3238082" lon="13.6389568">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2200322937" lat="52.3239632" lon="13.6381719">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2202964766" lat="52.3855319" lon="12.9237726">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2202964767" lat="52.3855670" lon="12.9236398">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2202964780" lat="52.3862162" lon="12.9226166">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2217100210" lat="52.3924812" lon="12.9268276">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2218924195" lat="52.3906070" lon="12.9019983">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2218924200" lat="52.3906865" lon="12.9018751">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2218924205" lat="52.3915497" lon="12.9006442">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2218924213" lat="52.3916158" lon="12.9005804">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2235207218" lat="52.3996208" lon="13.5028015">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2235207219" lat="52.3998947" lon="13.5051333">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2235207220" lat="52.4001378" lon="13.5069908">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2235207232" lat="52.4006374" lon="13.5101908">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2235207236" lat="52.4008792" lon="13.5117374">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2235207446" lat="52.4078340" lon="13.5218235">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2242574662" lat="52.2915752" lon="13.4181178">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2242574845" lat="52.2921540" lon="13.4258630">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2242574875" lat="52.2922069" lon="13.4270231">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2242574981" lat="52.2925571" lon="13.4300735">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2262756700" lat="52.4934821" lon="13.5024298">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2267267696" lat="52.4927579" lon="13.3748245">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2273449492" lat="52.4451017" lon="13.3783170">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2273449494" lat="52.4452492" lon="13.3792044">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="highway" v="street_lamp"/>
+    <tag k="lamp_type" v="electric"/>
+  </node>
+  <node id="2283313144" lat="52.1380725" lon="13.3655002">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2283313173" lat="52.1395579" lon="13.3651265">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2283844283" lat="52.5725123" lon="13.3069845">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2284316170" lat="52.5744002" lon="13.3068485">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2284611497" lat="52.5199102" lon="13.3589154">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2284936720" lat="52.4434175" lon="13.3863342">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="highway" v="street_lamp"/>
+    <tag k="lamp_type" v="electric"/>
+  </node>
+  <node id="2284936729" lat="52.4438983" lon="13.3858467">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2284936733" lat="52.4439830" lon="13.3858467">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2284936759" lat="52.4454695" lon="13.3855576">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2284936760" lat="52.4454935" lon="13.3859902">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2288992087" lat="52.3992160" lon="13.2317950">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2292592247" lat="52.8786120" lon="14.2008837">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2292643017" lat="52.8794444" lon="14.2023238">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2292652962" lat="52.8792297" lon="14.2025170">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2292652963" lat="52.8791698" lon="14.2025921">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2292733030" lat="52.8785246" lon="14.2021181">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2292733034" lat="52.8785190" lon="14.2021583">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2292733426" lat="52.8788395" lon="14.2020014">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2297383191" lat="52.5446406" lon="13.3631440">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2308657295" lat="52.5513055" lon="13.3634253">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2312639860" lat="52.4152080" lon="13.0456385">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2312768072" lat="52.3385508" lon="12.9832357">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2314503863" lat="52.4945183" lon="13.2895685">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2315883312" lat="52.5241688" lon="13.1950365">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2329971742" lat="52.5109606" lon="13.2945874">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2339563885" lat="52.5030741" lon="13.4927665">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563886" lat="52.5032035" lon="13.4916208">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563887" lat="52.5032421" lon="13.4844214">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563888" lat="52.5033066" lon="13.4842690">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563890" lat="52.5033501" lon="13.4844368">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563891" lat="52.5034199" lon="13.4911048">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563892" lat="52.5036624" lon="13.4855748">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563893" lat="52.5037698" lon="13.4893688">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563894" lat="52.5040562" lon="13.4933457">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563895" lat="52.5041052" lon="13.4935258">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563898" lat="52.5042119" lon="13.4871160">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563901" lat="52.5044697" lon="13.4917036">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563928" lat="52.5047115" lon="13.4900491">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2339563940" lat="52.5049504" lon="13.4883408">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858335" lat="52.5010939" lon="13.4924717">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858336" lat="52.5013946" lon="13.4922009">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858338" lat="52.5014618" lon="13.4919125">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858340" lat="52.5015931" lon="13.4932717">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858341" lat="52.5016328" lon="13.4902974">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858342" lat="52.5018557" lon="13.4895351">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858345" lat="52.5021999" lon="13.4923062">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858346" lat="52.5025236" lon="13.4912178">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858347" lat="52.5025999" lon="13.4904379">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858348" lat="52.5027174" lon="13.4859941">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858349" lat="52.5027464" lon="13.4896304">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858352" lat="52.5033160" lon="13.4871940">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2340858353" lat="52.5035866" lon="13.4944453">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2345000941" lat="51.9804910" lon="14.2889387">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301577" lat="52.5035361" lon="13.4962980">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301584" lat="52.5038145" lon="13.4948681">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301586" lat="52.5038429" lon="13.4965332">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301592" lat="52.5041440" lon="13.4950511">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301610" lat="52.5056791" lon="13.4977148">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301616" lat="52.5062526" lon="13.4947791">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301622" lat="52.5071534" lon="13.4952859">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301628" lat="52.5074743" lon="13.4989133">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301637" lat="52.5083857" lon="13.4960347">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301638" lat="52.5084764" lon="13.4993949">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301645" lat="52.5093035" lon="13.4996618">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301646" lat="52.5093649" lon="13.4998970">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347301647" lat="52.5093944" lon="13.4997253">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441267" lat="52.4952051" lon="13.5019996">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441274" lat="52.4992972" lon="13.5036933">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441283" lat="52.4996633" lon="13.5040117">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441289" lat="52.5011152" lon="13.5044119">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441296" lat="52.5018925" lon="13.5045325">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441299" lat="52.5020123" lon="13.5046608">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441301" lat="52.5020392" lon="13.5024519">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441304" lat="52.5023528" lon="13.5039842">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441306" lat="52.5027216" lon="13.5002320">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441309" lat="52.5030082" lon="13.4987594">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441312" lat="52.5032115" lon="13.4979082">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441314" lat="52.5034362" lon="13.4962720">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2347441317" lat="52.5034766" lon="13.4965793">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2349427866" lat="52.0830386" lon="14.1681720">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2349427880" lat="52.0831206" lon="14.1683632">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2349427888" lat="52.0832397" lon="14.1683402">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310930" lat="52.5036324" lon="13.4958219">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310931" lat="52.5037879" lon="13.4956504">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310932" lat="52.5038124" lon="13.4955288">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310936" lat="52.5039026" lon="13.4957272">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310938" lat="52.5039360" lon="13.4956047">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310944" lat="52.5040620" lon="13.4954159">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310950" lat="52.5048178" lon="13.5019791">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310951" lat="52.5050910" lon="13.5004680">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310952" lat="52.5053870" lon="13.4990378">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310953" lat="52.5063739" lon="13.5014391">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310954" lat="52.5066099" lon="13.5031879">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310955" lat="52.5069626" lon="13.5020533">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310956" lat="52.5078087" lon="13.5040766">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310957" lat="52.5082620" lon="13.5031369">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310958" lat="52.5083502" lon="13.5032081">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310959" lat="52.5091328" lon="13.5050481">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310960" lat="52.5091862" lon="13.5048981">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310961" lat="52.5094166" lon="13.5041630">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2356310962" lat="52.5096715" lon="13.5036326">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181616" lat="52.5119482" lon="13.4901151">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181617" lat="52.5121328" lon="13.4887741">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181618" lat="52.5124795" lon="13.4855777">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181619" lat="52.5127338" lon="13.4669821">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181620" lat="52.5128583" lon="13.4657802">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181621" lat="52.5130998" lon="13.4769865">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181622" lat="52.5131785" lon="13.4770542">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181623" lat="52.5131983" lon="13.4777811">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181624" lat="52.5133453" lon="13.4765935">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181625" lat="52.5136722" lon="13.4734853">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181626" lat="52.5136891" lon="13.4732451">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181627" lat="52.5138888" lon="13.4717670">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181628" lat="52.5139263" lon="13.4706092">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181629" lat="52.5139656" lon="13.4708001">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181630" lat="52.5141174" lon="13.4695746">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181631" lat="52.5143198" lon="13.4675268">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2357181632" lat="52.5144440" lon="13.4659861">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2367041206" lat="52.5004583" lon="13.4901880">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2367041210" lat="52.5006061" lon="13.4895249">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2367041212" lat="52.5006899" lon="13.4893888">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2367041214" lat="52.5011215" lon="13.4892156">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2367041215" lat="52.5011503" lon="13.4899186">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2367041217" lat="52.5012792" lon="13.4904316">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2367041220" lat="52.5013249" lon="13.4904687">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370222724" lat="52.4516248" lon="13.1920312">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370222726" lat="52.4519550" lon="13.1919705">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787832" lat="52.4413016" lon="13.5865626">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787834" lat="52.4413573" lon="13.5864792">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787838" lat="52.4429714" lon="13.5818190">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787839" lat="52.4445206" lon="13.5751276">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787841" lat="52.4447944" lon="13.5756332">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787848" lat="52.4451425" lon="13.5770989">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787849" lat="52.4456361" lon="13.5769328">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787852" lat="52.4465437" lon="13.5787275">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787857" lat="52.4480833" lon="13.5762066">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787858" lat="52.4481979" lon="13.5753797">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787860" lat="52.4482239" lon="13.5769856">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787865" lat="52.4487746" lon="13.5748886">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787868" lat="52.4502770" lon="13.5735715">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787870" lat="52.4507378" lon="13.5736627">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787872" lat="52.4511250" lon="13.5740710">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787875" lat="52.4515314" lon="13.5765538">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2370787878" lat="52.4521209" lon="13.5768953">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2371452084" lat="52.4984858" lon="13.3720860">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2371452087" lat="52.4990299" lon="13.3721301">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2371565281" lat="52.3853466" lon="13.0605352">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2376849874" lat="52.4676765" lon="13.3345014">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2382894893" lat="52.4527189" lon="13.2353508">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2382894900" lat="52.4528402" lon="13.2358375">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2383096504" lat="52.5064543" lon="13.4961105">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2383096505" lat="52.5081120" lon="13.4958307">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2383096678" lat="52.5051206" lon="13.4939478">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2384446921" lat="52.4536230" lon="13.5822668">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2384446922" lat="52.4536354" lon="13.5815236">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2384446923" lat="52.4532601" lon="13.5833362">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2384446926" lat="52.4535748" lon="13.5826748">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2384459703" lat="52.4550494" lon="13.5767561">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2384459706" lat="52.4552665" lon="13.5765863">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2389109935" lat="52.4554271" lon="13.5810909">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2389109937" lat="52.4555319" lon="13.5807304">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2389111702" lat="52.4555780" lon="13.5805162">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2389111703" lat="52.4554490" lon="13.5804600">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2389111704" lat="52.4567187" lon="13.5806651">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2389112734" lat="52.4557645" lon="13.5779140">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2389112735" lat="52.4554655" lon="13.5796165">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2389112736" lat="52.4554361" lon="13.5807183">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2389112737" lat="52.4556383" lon="13.5778925">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2390287821" lat="52.4539312" lon="13.5822182">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2390291240" lat="52.4524851" lon="13.5780352">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2390291247" lat="52.4525981" lon="13.5780120">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399708962" lat="52.4324980" lon="13.4164047">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399709019" lat="52.4287072" lon="13.4207981">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895296" lat="52.4634210" lon="13.3234189">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895307" lat="52.4634793" lon="13.3232474">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895323" lat="52.4635186" lon="13.3215271">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895335" lat="52.4635518" lon="13.3214772">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895429" lat="52.4637821" lon="13.3222075">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895455" lat="52.4639070" lon="13.3210590">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895460" lat="52.4639332" lon="13.3217822">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895465" lat="52.4639879" lon="13.3216382">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895469" lat="52.4640349" lon="13.3214996">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895473" lat="52.4641381" lon="13.3212128">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895480" lat="52.4641830" lon="13.3207027">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895488" lat="52.4642736" lon="13.3208168">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895490" lat="52.4646044" lon="13.3211090">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2399895496" lat="52.4651185" lon="13.3215835">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2402905125" lat="52.5054123" lon="13.3472298">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2402905126" lat="52.5046596" lon="13.3466021">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2402934266" lat="52.4773813" lon="13.3557294">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2406387070" lat="52.4641224" lon="13.3207308">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2406387071" lat="52.4642081" lon="13.3208162">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2406415327" lat="52.4664061" lon="13.3225676">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2406415370" lat="52.4680059" lon="13.3228490">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2413500288" lat="52.4326975" lon="13.4158972">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2422733282" lat="52.4040618" lon="13.0277681">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2425537043" lat="52.4846846" lon="13.4172284">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2427887086" lat="52.5509804" lon="13.3742927">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2427887087" lat="52.5516393" lon="13.3752619">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2431235915" lat="52.6252893" lon="12.7542876">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2431235932" lat="52.6255078" lon="12.7541597">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2435119500" lat="52.5878760" lon="13.4043930">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2456783762" lat="52.5035470" lon="13.4140410">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764552" lat="52.5005918" lon="13.3719766">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764554" lat="52.4999746" lon="13.3717606">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764556" lat="52.5003698" lon="13.3718934">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764558" lat="52.5007584" lon="13.3722448">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764565" lat="52.5020491" lon="13.3726324">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764567" lat="52.5025675" lon="13.3729931">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764570" lat="52.5013054" lon="13.3722461">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764578" lat="52.5027797" lon="13.3730736">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764581" lat="52.5029545" lon="13.3732037">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764586" lat="52.4986512" lon="13.3705952">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764589" lat="52.4991590" lon="13.3708555">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2476764601" lat="52.4994285" lon="13.3712336">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2481301585" lat="52.3498519" lon="13.6279922">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2481301895" lat="52.3618087" lon="13.6250921">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2481768706" lat="52.4970100" lon="13.3695131">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2483768471" lat="52.5422585" lon="13.3567929">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2486977900" lat="52.4971521" lon="13.4320262">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2486977902" lat="52.4976737" lon="13.4317351">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2486977903" lat="52.4979236" lon="13.4315843">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2486977905" lat="52.4985263" lon="13.4313949">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2488123480" lat="52.4974583" lon="13.4321311">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2488170942" lat="52.4956036" lon="13.4377051">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2488170944" lat="52.4957216" lon="13.4365939">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2488170945" lat="52.4957410" lon="13.4372330">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2488170946" lat="52.4965962" lon="13.4349114">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2491967196" lat="52.4919500" lon="13.4344334">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2491967205" lat="52.4921569" lon="13.4337958">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2491967386" lat="52.4940931" lon="13.4354708">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2491967397" lat="52.4941202" lon="13.4348382">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2502885564" lat="52.4875783" lon="13.4079952">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2510243014" lat="52.5139964" lon="13.4732685">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2531692380" lat="52.4768245" lon="13.4503565">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2552835500" lat="52.6234772" lon="13.6797601">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2552916385" lat="52.6259485" lon="13.6833432">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557038830" lat="52.4929970" lon="13.4723061">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557050904" lat="52.4931997" lon="13.4716606">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557050913" lat="52.4933424" lon="13.4713481">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557050919" lat="52.4935738" lon="13.4705711">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557057927" lat="52.4942399" lon="13.4687371">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557057934" lat="52.4945756" lon="13.4678273">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557057939" lat="52.4946612" lon="13.4676822">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557057941" lat="52.4947917" lon="13.4672390">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557057948" lat="52.4949039" lon="13.4667914">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557057951" lat="52.4949379" lon="13.4666630">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2557057961" lat="52.4951784" lon="13.4659843">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2558492345" lat="52.5201489" lon="13.4377561">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2562641645" lat="52.6798365" lon="13.5815620">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2573891473" lat="52.4966663" lon="13.3844690">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2580919947" lat="52.4894499" lon="13.3708282">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2580919952" lat="52.4887136" lon="13.3715194">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2580919953" lat="52.4888224" lon="13.3714782">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2580919958" lat="52.4872251" lon="13.3709575">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2580926034" lat="52.4889094" lon="13.3711205">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2587607032" lat="52.5343919" lon="13.4800168">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2587609499" lat="52.5340569" lon="13.4802665">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2587610546" lat="52.5338552" lon="13.4809210">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2587679773" lat="52.6705550" lon="13.5516299">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2587720892" lat="52.5320522" lon="13.4818613">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2587726335" lat="52.5325826" lon="13.4800720">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2587726340" lat="52.5326414" lon="13.4805057">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2587776713" lat="52.5341844" lon="13.4802138">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2607994571" lat="52.4875731" lon="13.4865508">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2607994575" lat="52.4876116" lon="13.4866832">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608003335" lat="52.4852308" lon="13.4931976">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608003336" lat="52.4857079" lon="13.4927203">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608003339" lat="52.4864478" lon="13.4920524">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608003340" lat="52.4871226" lon="13.4910085">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608003342" lat="52.4875041" lon="13.4902305">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608023252" lat="52.4827863" lon="13.4942578">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608023255" lat="52.4830902" lon="13.4940911">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608023265" lat="52.4831572" lon="13.4940628">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608023268" lat="52.4834631" lon="13.4939200">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608023280" lat="52.4835208" lon="13.4938993">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608023283" lat="52.4838938" lon="13.4937457">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2608023285" lat="52.4842355" lon="13.4936400">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2611225551" lat="52.5202195" lon="13.4366888">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2626055045" lat="52.4933231" lon="13.4256608">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2629880635" lat="52.4935830" lon="13.4275838">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2675910162" lat="52.5428290" lon="13.2820710">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="Dakota 20"/>
+  </node>
+  <node id="2676120898" lat="52.5428370" lon="13.2868180">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="Dakota 20"/>
+  </node>
+  <node id="2680095737" lat="52.5034869" lon="13.3458969">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2680095758" lat="52.5020272" lon="13.3458889">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2680095768" lat="52.5016860" lon="13.3443466">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2689441847" lat="52.5920460" lon="13.2665230">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="Dakota 20"/>
+  </node>
+  <node id="2714276319" lat="52.4934373" lon="13.5003007">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2720826382" lat="52.7709112" lon="13.6108990">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2721013194" lat="52.7767022" lon="13.6051969">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2723131194" lat="52.5131247" lon="13.7365204">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2723131200" lat="52.5131133" lon="13.7366948">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2723154175" lat="52.5149774" lon="13.7475255">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2723154444" lat="52.5162962" lon="13.7484750">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2723154445" lat="52.5166504" lon="13.7488398">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2723158474" lat="52.5156580" lon="13.7481800">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2723158478" lat="52.5157674" lon="13.7480861">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2726747032" lat="52.5254905" lon="13.7620719">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2729733628" lat="52.5203515" lon="13.7539123">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2729733631" lat="52.5202500" lon="13.7537294">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872028" lat="52.4879986" lon="13.3725758">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872035" lat="52.4919047" lon="13.3738381">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872040" lat="52.4917127" lon="13.3746610">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872045" lat="52.4907857" lon="13.3742099">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872075" lat="52.4897347" lon="13.3735227">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872081" lat="52.4897069" lon="13.3738144">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872092" lat="52.4903088" lon="13.3733080">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872101" lat="52.4910205" lon="13.3730546">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872109" lat="52.4917476" lon="13.3729392">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872116" lat="52.4889888" lon="13.3734113">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2731872120" lat="52.4883510" lon="13.3730673">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2741637106" lat="52.3938818" lon="13.0638655">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2741637118" lat="52.3942616" lon="13.0644985">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2741637131" lat="52.3945077" lon="13.0648818">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2741724671" lat="52.5459559" lon="13.3544191">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2752290018" lat="52.4968941" lon="13.3677283">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2756088692" lat="52.4283186" lon="13.4333280">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2756088694" lat="52.4284221" lon="13.4324037">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2756088758" lat="52.4311116" lon="13.4167591">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2758107777" lat="52.4318878" lon="13.4338542">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763597884" lat="52.4283392" lon="13.4311901">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763597885" lat="52.4283867" lon="13.4298665">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763615368" lat="52.4280000" lon="13.4280978">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763615371" lat="52.4282983" lon="13.4248466">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763701872" lat="52.4289405" lon="13.4201112">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763701889" lat="52.4294138" lon="13.4201898">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763702197" lat="52.4307557" lon="13.4182535">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763702393" lat="52.4320213" lon="13.4166277">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763826444" lat="52.4327544" lon="13.4144353">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763863473" lat="52.4297221" lon="13.4265809">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2763863481" lat="52.4292874" lon="13.4298914">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2777983948" lat="52.5866772" lon="13.3081250">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2777984174" lat="52.5875693" lon="13.3101706">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2777984420" lat="52.5885804" lon="13.3124346">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2777984430" lat="52.5888896" lon="13.3130827">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309280" lat="52.5182438" lon="13.2550917">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309284" lat="52.5183891" lon="13.2557201">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309290" lat="52.5185350" lon="13.2561659">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309298" lat="52.5186288" lon="13.2549233">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309304" lat="52.5187260" lon="13.2565970">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309308" lat="52.5187404" lon="13.2561642">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309312" lat="52.5187537" lon="13.2541768">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309315" lat="52.5187573" lon="13.2553193">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309319" lat="52.5188271" lon="13.2541434">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309321" lat="52.5188454" lon="13.2565728">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309331" lat="52.5189324" lon="13.2558480">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309341" lat="52.5191386" lon="13.2564980">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309343" lat="52.5191471" lon="13.2540127">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309351" lat="52.5192019" lon="13.2552086">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309353" lat="52.5192105" lon="13.2540946">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309357" lat="52.5192273" lon="13.2559022">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309361" lat="52.5192406" lon="13.2560706">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309366" lat="52.5192559" lon="13.2555787">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309374" lat="52.5192954" lon="13.2554832">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309382" lat="52.5193212" lon="13.2549687">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309391" lat="52.5194919" lon="13.2560319">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2778309396" lat="52.5195519" lon="13.2556508">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2792913011" lat="52.5179000" lon="13.3614739">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2792913013" lat="52.5178685" lon="13.3618362">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2792913017" lat="52.5184641" lon="13.3633285">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2796710212" lat="52.5226377" lon="13.4017427">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="source" v="local knowledge"/>
+  </node>
+  <node id="2799026724" lat="52.2946326" lon="13.6611304">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2799026730" lat="52.2963357" lon="13.6563391">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2799026731" lat="52.2968630" lon="13.6547113">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2799026739" lat="52.2973833" lon="13.6526319">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2799026764" lat="52.3033308" lon="13.6504765">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2799026951" lat="52.3269958" lon="13.6372335">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2819175392" lat="52.5187344" lon="13.3663158">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="2819175394" lat="52.5189010" lon="13.3662867">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2819175396" lat="52.5189786" lon="13.3660238">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2850341696" lat="52.6123792" lon="13.8327842">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2850341700" lat="52.6126207" lon="13.8312292">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2850344213" lat="52.6150449" lon="13.8327049">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2850377290" lat="52.5181644" lon="13.7469978">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2850377291" lat="52.5192808" lon="13.7463166">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2856612733" lat="52.5261068" lon="13.5769302">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="hiking" v="yes"/>
+    <tag k="information" v="guidepost"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="2856612740" lat="52.5311234" lon="13.5815736">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2856612769" lat="52.5649944" lon="13.5815577">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2856686323" lat="52.5443660" lon="13.3914471">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="name" v="Was Du heute kannst entsorgen..."/>
+  </node>
+  <node id="2865137131" lat="52.4164812" lon="13.4348179">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2868706542" lat="52.5257903" lon="13.7548234">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2885760650" lat="52.5043739" lon="13.4828446">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2885760651" lat="52.5052908" lon="13.4821684">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2885760652" lat="52.5064039" lon="13.4822539">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2893834611" lat="52.5149704" lon="13.4838936">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2893834612" lat="52.5151176" lon="13.4831401">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2893834615" lat="52.5151355" lon="13.4821032">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2893834617" lat="52.5151729" lon="13.4812919">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2893837272" lat="52.5145528" lon="13.4800228">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2893837275" lat="52.5147910" lon="13.4805835">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2893837278" lat="52.5149508" lon="13.4809497">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2895671950" lat="52.5147235" lon="13.4796953">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2895671953" lat="52.5147778" lon="13.4796415">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2895671954" lat="52.5148273" lon="13.4796389">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2895671957" lat="52.5149272" lon="13.4796756">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2897475950" lat="52.5144969" lon="13.4785114">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2897475953" lat="52.5145688" lon="13.4785565">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2897475956" lat="52.5146283" lon="13.4786016">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2897475958" lat="52.5146772" lon="13.4794382">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2897475962" lat="52.5148000" lon="13.4790559">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2897475963" lat="52.5148009" lon="13.4789205">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2897475968" lat="52.5148217" lon="13.4788400">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2904505601" lat="52.5483260" lon="13.4560500">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:postcode" v="13088"/>
+    <tag k="addr:street" v="Herbert-Baum-Straße"/>
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2904517701" lat="52.5492600" lon="13.4558680">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:postcode" v="13088"/>
+    <tag k="addr:street" v="Berliner Allee"/>
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2909984827" lat="52.4924515" lon="13.3729287">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2912884794" lat="52.5075037" lon="13.4667615">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2923622765" lat="52.5113937" lon="13.3770443">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="2924796387" lat="52.5114530" lon="13.3767866">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="highway" v="street_lamp"/>
+  </node>
+  <node id="2925991401" lat="52.4932871" lon="13.3949744">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2925991501" lat="52.4931975" lon="13.3947879">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2938109257" lat="52.2190581" lon="13.4388194">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2966051777" lat="52.5426266" lon="13.3515108">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="name" v="BSR Abfalleimer"/>
+  </node>
+  <node id="2968209471" lat="52.4895524" lon="13.3004659">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2984805910" lat="52.5137080" lon="13.2283312">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="survey:date" v="2014-07-27"/>
+    <tag k="waste" v="trash"/>
+  </node>
+  <node id="2988646881" lat="52.4629081" lon="13.1633704">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2993103229" lat="52.4968903" lon="13.2911980">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2993103230" lat="52.4968539" lon="13.2912629">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2993103231" lat="52.4967036" lon="13.2907901">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2993103232" lat="52.4966562" lon="13.2908525">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2994821435" lat="52.0402138" lon="14.0600400">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2994885340" lat="52.0401964" lon="14.0600534">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="2994887533" lat="52.0255780" lon="13.9490561">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3013553352" lat="52.5014132" lon="13.2829667">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3013553353" lat="52.5013779" lon="13.2826702">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3013582393" lat="52.4901419" lon="13.3143130">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3015494645" lat="52.5353193" lon="13.2866325">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3016543181" lat="52.7136970" lon="13.2673258">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3020950582" lat="52.4668808" lon="13.5278689">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3020950589" lat="52.4673559" lon="13.5281895">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3020950592" lat="52.4674550" lon="13.5272436">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3020950596" lat="52.4677942" lon="13.5274883">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3028140196" lat="52.4972117" lon="13.2900049">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3030284214" lat="52.5689224" lon="13.3179192">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3033299469" lat="52.4591944" lon="13.3846102">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3033299471" lat="52.4594534" lon="13.3839932">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3033299473" lat="52.4596354" lon="13.3818021">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779739" lat="52.4573513" lon="13.3784667">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779742" lat="52.4577602" lon="13.3757130">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779744" lat="52.4577763" lon="13.3761229">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779745" lat="52.4582879" lon="13.3816401">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779747" lat="52.4584229" lon="13.3809525">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779749" lat="52.4586726" lon="13.3785625">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779750" lat="52.4587109" lon="13.3763345">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779751" lat="52.4587411" lon="13.3788832">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779753" lat="52.4588519" lon="13.3764998">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779756" lat="52.4596838" lon="13.3798055">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779757" lat="52.4598953" lon="13.3788733">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779758" lat="52.4599819" lon="13.3767213">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3041779759" lat="52.4604431" lon="13.3790088">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3042484088" lat="52.4973999" lon="13.2905225">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3045983746" lat="52.7116837" lon="13.2701053">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3051029068" lat="52.4580866" lon="13.3840282">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3051029069" lat="52.4581058" lon="13.3843780">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3051029070" lat="52.4582675" lon="13.3844211">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3051029071" lat="52.4583412" lon="13.3840895">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+  <node id="3073291315" lat="52.4946317" lon="13.4465247">
+    <tag k="amenity" v="waste_basket"/>
+  </node>
+
+</osm>
