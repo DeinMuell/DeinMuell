@@ -11,8 +11,8 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:background="@drawable/buttonshape4"
-        android:text="@string/TrashieU" />
+        android:background="@drawable/buttonshape7"
+        android:text="Trashie Yourself" />
 
     <ImageButton
         android:id="@+id/imageButton1"
@@ -20,6 +20,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:src="@drawable/facebook_like" />
+        android:src="@drawable/facebook_button" />
 
 </RelativeLayout>
