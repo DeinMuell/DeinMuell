@@ -9,4 +9,17 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="de.jugendhackt.deinmuell.StatistikenActivity" >
 
+<<<<<<< HEAD
+=======
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="105dp"
+        android:text="Übersicht deiner Tarshies" 
+        android:textStyle="bold"/>
+
+>>>>>>> dcd0aef9afe6268de3ad5509be75d4437fe66095
 </RelativeLayout>

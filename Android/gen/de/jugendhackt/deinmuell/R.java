@@ -394,6 +394,65 @@ containing a value of this type.
         public static final int title_activity_statistiken=0x7f060026;
         public static final int title_activity_suchen=0x7f060024;
         public static final int title_activity_trashie=0x7f060021;
+        public static final int buttonshape7=0x7f02000c;
+        public static final int facebook_button=0x7f02000d;
+        public static final int ic_launcher=0x7f02000e;
+        public static final int icon_muell=0x7f02000f;
+        public static final int rosa=0x7f020010;
+        public static final int trashie1=0x7f020011;
+        public static final int trashie2=0x7f020012;
+        public static final int trashie3=0x7f020013;
+    }
+    public static final class id {
+        public static final int action_info=0x7f09000f;
+        public static final int action_settings=0x7f090010;
+        public static final int angry_btn=0x7f090002;
+        public static final int angry_btn2=0x7f090001;
+        public static final int angry_btn3=0x7f090004;
+        public static final int angry_btn4=0x7f090003;
+        public static final int button1=0x7f090011;
+        public static final int container=0x7f090000;
+        public static final int editOrt=0x7f090005;
+        public static final int editOrtSuche=0x7f09000c;
+        public static final int editStraße=0x7f090006;
+        public static final int editStraßeSuche=0x7f09000b;
+        public static final int evil_btn1=0x7f090007;
+        public static final int gallery1=0x7f09000d;
+        public static final int imageButton1=0x7f09000c;
+        public static final int imageView1=0x7f09000e;
+        public static final int imageView2=0x7f09000f;
+        public static final int imageView3=0x7f090010;
+        public static final int spinner1=0x7f090009;
+        public static final int typ_spinner=0x7f090008;
+    }
+    public static final class layout {
+        public static final int activity_main=0x7f030000;
+        public static final int activity_melden=0x7f030001;
+        public static final int activity_statistiken=0x7f030002;
+        public static final int activity_suchen=0x7f030003;
+        public static final int activity_trashie=0x7f030004;
+        public static final int fragment_main=0x7f030005;
+        public static final int spinner_item=0x7f030006;
+    }
+    public static final class menu {
+        public static final int main=0x7f080000;
+        public static final int statistiken=0x7f080001;
+        public static final int suchen=0x7f080002;
+    }
+    public static final class string {
+        public static final int MeldeButton=0x7f050002;
+        public static final int Statistikbutton=0x7f050005;
+        public static final int SucheButton=0x7f050003;
+        public static final int TrashieButton=0x7f050004;
+        public static final int TrashieU=0x7f050009;
+        public static final int action_info=0x7f050001;
+        public static final int action_settings=0x7f05000b;
+        public static final int app_name=0x7f050000;
+        public static final int hello_world=0x7f050008;
+        public static final int title_activity_melden=0x7f050006;
+        public static final int title_activity_statistiken=0x7f05000c;
+        public static final int title_activity_suchen=0x7f05000a;
+        public static final int title_activity_trashie=0x7f050007;
     }
     public static final class style {
         /** 

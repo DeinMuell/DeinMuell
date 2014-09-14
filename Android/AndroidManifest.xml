@@ -7,6 +7,7 @@
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="19" />
+<<<<<<< HEAD
 
     <permission
         android:name="com.vogella.android.locationapi.maps.permission.MAPS_RECEIVE"
@@ -24,6 +25,10 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+=======
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+>>>>>>> dcd0aef9afe6268de3ad5509be75d4437fe66095
 
     <application
         android:allowBackup="true"
@@ -41,6 +46,7 @@
         </activity>
         <activity
             android:name=".MeldenActivity"
+<<<<<<< HEAD
             android:label="@string/MeldeButton"
             android:screenOrientation="portrait" >
         </activity>
@@ -69,6 +75,21 @@
         <activity
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps" >
+=======
+            android:label="@string/MeldeButton" >
+        </activity>
+        <activity
+            android:name=".SuchenActivity"
+            android:label="@string/title_activity_suchen" >
+        </activity>
+        <activity
+            android:name=".StatistikenActivity"
+            android:label="@string/title_activity_statistiken" >
+        </activity>
+        <activity
+            android:name=".TrashieActivity"
+            android:label="@string/title_activity_trashie" >
+>>>>>>> dcd0aef9afe6268de3ad5509be75d4437fe66095
         </activity>
     </application>
 
