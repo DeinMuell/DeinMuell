@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_suche"
+    tools:context="de.jugendhackt.deinmuell.SuchenActivity" >
+
+		<Button
+		    android:id="@+id/angry_btn2"
+		    android:layout_width="200dp"
+		    android:layout_height="60dp"
+		    android:layout_alignParentBottom="true"
+		    android:layout_centerHorizontal="true"
+		    android:layout_marginBottom="63dp"
+		    android:background="@drawable/buttonshape2"
+		    android:text="Suchen"
+		    android:textColor="#FFFFFF"
+		    android:textSize="30sp" />
+
+		<Spinner
+		    android:id="@+id/spinner1"
+		    style="@style/StyleMuelltyp"
+		    android:layout_width="215dp"
+		    android:layout_height="wrap_content"
+		    android:layout_above="@+id/angry_btn2"
+		    android:layout_alignLeft="@+id/editStraßeSuche"
+		    android:layout_marginBottom="49dp"
+		    android:background="#B5E61D"
+		    android:entries="@array/muelltypen" />
+
+		<EditText
+		    android:id="@+id/editStraßeSuche"
+		    android:layout_width="215dp"
+		    android:layout_height="wrap_content"
+		    android:layout_above="@+id/spinner1"
+		    android:layout_alignLeft="@+id/editOrtSuche"
+		    android:layout_marginBottom="42dp"
+		    android:background="#B5E61D"
+		    android:ems="10"
+		    android:hint="Straße"
+		    android:textColor="@android:color/black" />
+
+		<EditText
+		    android:id="@+id/editOrtSuche"
+		    android:layout_width="215dp"
+		    android:layout_height="wrap_content"
+		    android:layout_above="@+id/editStraßeSuche"
+		    android:layout_centerHorizontal="true"
+		    android:layout_marginBottom="28dp"
+		    android:background="#B5E61D"
+		    android:ems="10"
+		    android:hint="Ort"
+		    android:textColor="@android:color/black" >
+
+		    <requestFocus />
+		</EditText>
+
+ />
+    
+</RelativeLayout>
