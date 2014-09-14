@@ -1,12 +1,9 @@
 package de.jugendhackt.deinmuell;
 
-<<<<<<< HEAD
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.Serializable;
 import java.util.ArrayList;
 
-import org.apache.http.entity.SerializableEntity;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
@@ -14,6 +11,8 @@ import org.xmlpull.v1.XmlPullParserFactory;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
@@ -22,20 +21,11 @@ public class SuchenActivity extends Activity {
 
 	private ArrayList<LatLng> arrayList = new ArrayList<LatLng>();
 	
-=======
-import android.app.Activity;
-import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 
-public class SuchenActivity extends Activity {
-
->>>>>>> dcd0aef9afe6268de3ad5509be75d4437fe66095
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_suchen);
-<<<<<<< HEAD
 		
 		XmlPullParserFactory pullParserFactory;
 		try {
@@ -91,8 +81,6 @@ public class SuchenActivity extends Activity {
         }
 	}
 	
-=======
-	}
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
@@ -112,5 +100,4 @@ public class SuchenActivity extends Activity {
 		}
 		return super.onOptionsItemSelected(item);
 	}
->>>>>>> dcd0aef9afe6268de3ad5509be75d4437fe66095
 }

@@ -39,7 +39,7 @@ public class MapsActivity extends Activity {
 					.title("Müll")
 					.snippet("Hier ist ein Mülleimer")
 					.icon(BitmapDescriptorFactory
-							.fromResource(R.drawable.ic_launcher)));
+							.fromResource(R.drawable.map_muelltonne)));
 		}
 
 		map.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(52.518611,
